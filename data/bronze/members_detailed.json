@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2025-10-23T05:11:59.569081",
+      "extracted_at": "2025-10-24T05:11:43.062234",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -736,7 +736,7 @@
     "twitter_username": null,
     "public_repos": 138,
     "public_gists": 1,
-    "followers": 300,
+    "followers": 302,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
     "updated_at": "2025-09-11T15:09:31Z"
