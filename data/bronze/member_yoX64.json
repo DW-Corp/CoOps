@@ -31,9 +31,9 @@
   "followers": 16,
   "following": 19,
   "created_at": "2013-02-10T15:08:57Z",
-  "updated_at": "2025-10-08T19:11:49Z",
+  "updated_at": "2025-10-29T15:47:48Z",
   "_metadata": {
-    "extracted_at": "2025-10-29T05:12:24.686118",
+    "extracted_at": "2025-10-30T05:11:53.620320",
     "file_path": "data/bronze/member_yoX64.json"
   }
 }
