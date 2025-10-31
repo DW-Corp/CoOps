@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2025-10-30T05:11:53.616110",
+      "extracted_at": "2025-10-31T05:12:41.828281",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -71,7 +71,7 @@
     "twitter_username": null,
     "public_repos": 132,
     "public_gists": 24,
-    "followers": 108,
+    "followers": 107,
     "following": 555,
     "created_at": "2009-02-21T15:21:29Z",
     "updated_at": "2025-10-27T15:33:11Z"
@@ -282,7 +282,7 @@
     "public_repos": 98,
     "public_gists": 108,
     "followers": 215,
-    "following": 15,
+    "following": 16,
     "created_at": "2008-07-20T09:41:15Z",
     "updated_at": "2025-09-10T19:45:25Z"
   },
@@ -526,7 +526,7 @@
     "twitter_username": null,
     "public_repos": 281,
     "public_gists": 68,
-    "followers": 121,
+    "followers": 123,
     "following": 135,
     "created_at": "2010-09-03T22:16:37Z",
     "updated_at": "2025-10-21T15:50:04Z"
@@ -739,7 +739,7 @@
     "followers": 301,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
-    "updated_at": "2025-09-11T15:09:31Z"
+    "updated_at": "2025-10-30T16:10:25Z"
   },
   {
     "login": "yoX64",
