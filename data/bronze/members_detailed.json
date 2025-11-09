@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2025-11-08T05:11:22.256762",
+      "extracted_at": "2025-11-09T05:11:17.249496",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -71,7 +71,7 @@
     "twitter_username": null,
     "public_repos": 132,
     "public_gists": 24,
-    "followers": 108,
+    "followers": 109,
     "following": 555,
     "created_at": "2009-02-21T15:21:29Z",
     "updated_at": "2025-10-27T15:33:11Z"
@@ -314,7 +314,7 @@
     "hireable": null,
     "bio": "Hi! I'm Pietro 👋\r\nSoftware Engineer with a passion for problem solving, visualization, XP and refactoring. I thrive on continuous learning & collaboration.",
     "twitter_username": "pierodibello",
-    "public_repos": 268,
+    "public_repos": 269,
     "public_gists": 228,
     "followers": 103,
     "following": 21,
@@ -459,7 +459,7 @@
     "followers": 64,
     "following": 18,
     "created_at": "2008-10-23T06:42:07Z",
-    "updated_at": "2025-09-25T09:44:43Z"
+    "updated_at": "2025-11-08T22:14:35Z"
   },
   {
     "login": "gunn",
@@ -524,7 +524,7 @@
     "hireable": true,
     "bio": "Salesforce Development Professional/Linux Aficionado/Economics Dilettante. \r\n\r\nPrincipal, @octoberswimmer.",
     "twitter_username": null,
-    "public_repos": 283,
+    "public_repos": 284,
     "public_gists": 68,
     "followers": 125,
     "following": 135,
