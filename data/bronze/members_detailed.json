@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2025-11-21T05:12:50.650695",
+      "extracted_at": "2025-11-22T05:11:11.436602",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -36,7 +36,7 @@
     "twitter_username": null,
     "public_repos": 193,
     "public_gists": 44,
-    "followers": 191,
+    "followers": 190,
     "following": 142,
     "created_at": "2009-11-16T10:44:47Z",
     "updated_at": "2025-07-05T16:38:57Z"
@@ -144,7 +144,7 @@
     "followers": 7,
     "following": 2,
     "created_at": "2022-02-01T23:41:40Z",
-    "updated_at": "2025-11-07T18:47:32Z"
+    "updated_at": "2025-11-22T01:24:33Z"
   },
   {
     "login": "madeindjs",
@@ -281,10 +281,10 @@
     "twitter_username": null,
     "public_repos": 98,
     "public_gists": 108,
-    "followers": 218,
+    "followers": 217,
     "following": 16,
     "created_at": "2008-07-20T09:41:15Z",
-    "updated_at": "2025-11-11T02:09:45Z"
+    "updated_at": "2025-11-21T18:07:27Z"
   },
   {
     "login": "xpepper",
@@ -354,7 +354,7 @@
     "followers": 33,
     "following": 30,
     "created_at": "2012-12-21T12:17:11Z",
-    "updated_at": "2025-11-20T16:20:16Z"
+    "updated_at": "2025-11-21T14:28:05Z"
   },
   {
     "login": "Drahkir",
@@ -524,9 +524,9 @@
     "hireable": true,
     "bio": "Salesforce Development Professional/Linux Aficionado/Economics Dilettante. \r\n\r\nPrincipal, @octoberswimmer.",
     "twitter_username": null,
-    "public_repos": 287,
+    "public_repos": 288,
     "public_gists": 68,
-    "followers": 127,
+    "followers": 126,
     "following": 135,
     "created_at": "2010-09-03T22:16:37Z",
     "updated_at": "2025-10-21T15:50:04Z"
@@ -736,7 +736,7 @@
     "twitter_username": null,
     "public_repos": 138,
     "public_gists": 1,
-    "followers": 302,
+    "followers": 301,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
     "updated_at": "2025-11-19T13:32:56Z"
