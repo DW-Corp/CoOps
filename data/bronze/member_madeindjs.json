@@ -31,9 +31,9 @@
   "followers": 234,
   "following": 28,
   "created_at": "2015-04-06T08:45:43Z",
-  "updated_at": "2025-11-05T21:10:04Z",
+  "updated_at": "2025-11-26T08:21:42Z",
   "_metadata": {
-    "extracted_at": "2025-11-26T05:12:30.139117",
+    "extracted_at": "2025-11-27T05:13:11.800121",
     "file_path": "data/bronze/member_madeindjs.json"
   }
 }
