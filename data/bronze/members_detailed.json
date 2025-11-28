@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2025-11-27T05:13:11.798342",
+      "extracted_at": "2025-11-28T05:13:11.863463",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -36,7 +36,7 @@
     "twitter_username": null,
     "public_repos": 193,
     "public_gists": 44,
-    "followers": 191,
+    "followers": 190,
     "following": 142,
     "created_at": "2009-11-16T10:44:47Z",
     "updated_at": "2025-07-05T16:38:57Z"
@@ -67,14 +67,14 @@
     "location": "Vicenza, Italy",
     "email": "info@andreadalponte.com",
     "hireable": true,
-    "bio": "✨ I'm a 1x engineer ✨ ",
+    "bio": null,
     "twitter_username": null,
     "public_repos": 132,
     "public_gists": 24,
     "followers": 110,
-    "following": 555,
+    "following": 557,
     "created_at": "2009-02-21T15:21:29Z",
-    "updated_at": "2025-10-27T15:33:11Z"
+    "updated_at": "2025-11-27T10:49:57Z"
   },
   {
     "login": "danrleypereira",
@@ -524,7 +524,7 @@
     "hireable": true,
     "bio": "Salesforce Development Professional/Linux Aficionado/Economics Dilettante. \r\n\r\nPrincipal, @octoberswimmer.",
     "twitter_username": null,
-    "public_repos": 288,
+    "public_repos": 289,
     "public_gists": 68,
     "followers": 126,
     "following": 135,

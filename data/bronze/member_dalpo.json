@@ -24,16 +24,16 @@
   "location": "Vicenza, Italy",
   "email": "info@andreadalponte.com",
   "hireable": true,
-  "bio": "✨ I'm a 1x engineer ✨ ",
+  "bio": null,
   "twitter_username": null,
   "public_repos": 132,
   "public_gists": 24,
   "followers": 110,
-  "following": 555,
+  "following": 557,
   "created_at": "2009-02-21T15:21:29Z",
-  "updated_at": "2025-10-27T15:33:11Z",
+  "updated_at": "2025-11-27T10:49:57Z",
   "_metadata": {
-    "extracted_at": "2025-11-27T05:13:11.799643",
+    "extracted_at": "2025-11-28T05:13:11.864634",
     "file_path": "data/bronze/member_dalpo.json"
   }
 }
