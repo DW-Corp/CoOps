@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2025-12-06T05:11:50.541801",
+      "extracted_at": "2025-12-07T05:11:10.753058",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -139,7 +139,7 @@
     "hireable": null,
     "bio": "Desenvolvedora de Software.\r\n\r\n\r\n",
     "twitter_username": null,
-    "public_repos": 28,
+    "public_repos": 29,
     "public_gists": 0,
     "followers": 7,
     "following": 2,
