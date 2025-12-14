@@ -24,16 +24,16 @@
   "location": null,
   "email": "rulrok@gmail.com",
   "hireable": true,
-  "bio": "Usually working on private internal projects for companies.",
+  "bio": null,
   "twitter_username": null,
-  "public_repos": 33,
+  "public_repos": 32,
   "public_gists": 2,
   "followers": 35,
   "following": 30,
   "created_at": "2012-12-21T12:17:11Z",
-  "updated_at": "2025-11-30T01:22:06Z",
+  "updated_at": "2025-12-13T19:31:23Z",
   "_metadata": {
-    "extracted_at": "2025-12-13T05:12:31.364971",
+    "extracted_at": "2025-12-14T05:12:42.236222",
     "file_path": "data/bronze/member_rulrok.json"
   }
 }
