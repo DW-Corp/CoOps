@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2025-12-14T05:12:42.233582",
+      "extracted_at": "2025-12-15T05:18:11.978766",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -36,7 +36,7 @@
     "twitter_username": null,
     "public_repos": 193,
     "public_gists": 44,
-    "followers": 190,
+    "followers": 191,
     "following": 142,
     "created_at": "2009-11-16T10:44:47Z",
     "updated_at": "2025-07-05T16:38:57Z"
@@ -176,7 +176,7 @@
     "twitter_username": null,
     "public_repos": 156,
     "public_gists": 39,
-    "followers": 235,
+    "followers": 234,
     "following": 28,
     "created_at": "2015-04-06T08:45:43Z",
     "updated_at": "2025-11-26T08:21:42Z"
@@ -459,7 +459,7 @@
     "followers": 63,
     "following": 18,
     "created_at": "2008-10-23T06:42:07Z",
-    "updated_at": "2025-12-05T09:48:10Z"
+    "updated_at": "2025-12-15T04:35:33Z"
   },
   {
     "login": "gunn",
