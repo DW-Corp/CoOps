@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-01-05T05:29:28.947078",
+      "extracted_at": "2026-01-06T05:17:27.122971",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -739,7 +739,7 @@
     "followers": 303,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
-    "updated_at": "2025-12-11T16:00:37Z"
+    "updated_at": "2026-01-05T18:24:34Z"
   },
   {
     "login": "yoX64",
