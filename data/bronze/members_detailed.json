@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-01-13T05:18:32.829862",
+      "extracted_at": "2026-01-14T05:16:58.808441",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -174,7 +174,7 @@
     "hireable": true,
     "bio": "Passionate developer. I love clean code, clean logic and my girlfriend.",
     "twitter_username": null,
-    "public_repos": 157,
+    "public_repos": 158,
     "public_gists": 39,
     "followers": 234,
     "following": 28,
@@ -315,7 +315,7 @@
     "bio": "Hi! I'm Pietro 👋\r\nSoftware Engineer with a passion for problem solving, visualization, XP and refactoring. I thrive on continuous learning & collaboration.",
     "twitter_username": "pierodibello",
     "public_repos": 275,
-    "public_gists": 231,
+    "public_gists": 232,
     "followers": 104,
     "following": 22,
     "created_at": "2010-10-23T13:59:12Z",
@@ -459,7 +459,7 @@
     "followers": 63,
     "following": 18,
     "created_at": "2008-10-23T06:42:07Z",
-    "updated_at": "2025-12-15T04:35:33Z"
+    "updated_at": "2026-01-13T19:11:17Z"
   },
   {
     "login": "gunn",
@@ -669,7 +669,7 @@
     "followers": 115,
     "following": 84,
     "created_at": "2009-03-20T21:32:21Z",
-    "updated_at": "2026-01-07T09:09:33Z"
+    "updated_at": "2026-01-13T18:09:44Z"
   },
   {
     "login": "pirosm1",
