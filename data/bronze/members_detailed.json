@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-01-15T05:18:57.767425",
+      "extracted_at": "2026-01-16T05:18:12.171234",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -71,7 +71,7 @@
     "twitter_username": null,
     "public_repos": 132,
     "public_gists": 24,
-    "followers": 110,
+    "followers": 111,
     "following": 557,
     "created_at": "2009-02-21T15:21:29Z",
     "updated_at": "2025-11-27T10:49:57Z"
@@ -319,7 +319,7 @@
     "followers": 104,
     "following": 22,
     "created_at": "2010-10-23T13:59:12Z",
-    "updated_at": "2025-12-25T23:16:54Z"
+    "updated_at": "2026-01-15T12:57:20Z"
   },
   {
     "login": "rulrok",
@@ -524,9 +524,9 @@
     "hireable": true,
     "bio": "Salesforce Development Professional/Linux Aficionado/Economics Dilettante. \r\n\r\nPrincipal, @octoberswimmer.",
     "twitter_username": null,
-    "public_repos": 291,
+    "public_repos": 293,
     "public_gists": 68,
-    "followers": 130,
+    "followers": 129,
     "following": 135,
     "created_at": "2010-09-03T22:16:37Z",
     "updated_at": "2025-10-21T15:50:04Z"
@@ -736,7 +736,7 @@
     "twitter_username": null,
     "public_repos": 138,
     "public_gists": 1,
-    "followers": 304,
+    "followers": 305,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
     "updated_at": "2026-01-05T18:24:34Z"
