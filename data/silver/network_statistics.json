@@ -6,7 +6,7 @@
   "avg_collaborators_per_user": 12.0,
   "avg_contributors_per_repo": 3.4,
   "_metadata": {
-    "extracted_at": "2026-01-20T05:22:29.694083",
+    "extracted_at": "2026-01-21T05:22:20.208781",
     "file_path": "data/silver/network_statistics.json"
   }
 }
