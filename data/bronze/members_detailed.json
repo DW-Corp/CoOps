@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-01-24T05:14:41.062920",
+      "extracted_at": "2026-01-25T05:21:57.146769",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -71,7 +71,7 @@
     "twitter_username": null,
     "public_repos": 132,
     "public_gists": 24,
-    "followers": 110,
+    "followers": 109,
     "following": 557,
     "created_at": "2009-02-21T15:21:29Z",
     "updated_at": "2025-11-27T10:49:57Z"
@@ -494,7 +494,7 @@
     "followers": 53,
     "following": 12,
     "created_at": "2008-12-24T14:56:57Z",
-    "updated_at": "2026-01-19T08:24:52Z"
+    "updated_at": "2026-01-24T11:33:23Z"
   },
   {
     "login": "cwarden",
@@ -526,7 +526,7 @@
     "twitter_username": null,
     "public_repos": 293,
     "public_gists": 68,
-    "followers": 129,
+    "followers": 128,
     "following": 135,
     "created_at": "2010-09-03T22:16:37Z",
     "updated_at": "2025-10-21T15:50:04Z"
@@ -774,7 +774,7 @@
     "followers": 16,
     "following": 19,
     "created_at": "2013-02-10T15:08:57Z",
-    "updated_at": "2025-12-09T19:13:15Z"
+    "updated_at": "2026-01-24T18:24:28Z"
   },
   {
     "login": "dependabot[bot]",

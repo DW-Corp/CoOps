@@ -31,9 +31,9 @@
   "followers": 53,
   "following": 12,
   "created_at": "2008-12-24T14:56:57Z",
-  "updated_at": "2026-01-19T08:24:52Z",
+  "updated_at": "2026-01-24T11:33:23Z",
   "_metadata": {
-    "extracted_at": "2026-01-24T05:14:41.065667",
+    "extracted_at": "2026-01-25T05:21:57.150184",
     "file_path": "data/bronze/member_gunn.json"
   }
 }
