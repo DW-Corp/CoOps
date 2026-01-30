@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-01-29T05:36:11.838168",
+      "extracted_at": "2026-01-30T05:39:36.991240",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -209,7 +209,7 @@
     "hireable": true,
     "bio": null,
     "twitter_username": "hoffmanc",
-    "public_repos": 86,
+    "public_repos": 87,
     "public_gists": 24,
     "followers": 12,
     "following": 24,
