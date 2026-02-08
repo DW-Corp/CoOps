@@ -31,9 +31,9 @@
   "followers": 12,
   "following": 24,
   "created_at": "2010-01-28T14:52:51Z",
-  "updated_at": "2026-01-27T01:59:40Z",
+  "updated_at": "2026-02-07T12:41:04Z",
   "_metadata": {
-    "extracted_at": "2026-02-07T05:34:33.991273",
+    "extracted_at": "2026-02-08T05:55:35.479806",
     "file_path": "data/bronze/member_hoffmanc.json"
   }
 }
