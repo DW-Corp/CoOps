@@ -28,12 +28,12 @@
   "twitter_username": null,
   "public_repos": 194,
   "public_gists": 44,
-  "followers": 190,
+  "followers": 189,
   "following": 142,
   "created_at": "2009-11-16T10:44:47Z",
   "updated_at": "2025-07-05T16:38:57Z",
   "_metadata": {
-    "extracted_at": "2026-02-10T06:06:00.569363",
+    "extracted_at": "2026-02-11T06:02:53.354014",
     "file_path": "data/bronze/member_potomak.json"
   }
 }
