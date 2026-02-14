@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-02-13T05:52:53.929737",
+      "extracted_at": "2026-02-14T05:37:40.062142",
       "file_path": "data/bronze/repositories_detailed.json",
       "record_count": 5
     }
@@ -100,6 +100,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 0,
@@ -139,7 +141,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-02-13T05:52:52.950581",
+      "extracted_at": "2026-02-14T05:37:39.120743",
       "file_path": "data/bronze/repo_reurb-ibict.json"
     }
   },
@@ -243,6 +245,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 0,
@@ -282,7 +286,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-02-13T05:52:53.228406",
+      "extracted_at": "2026-02-14T05:37:39.315448",
       "file_path": "data/bronze/repo_MIT.json"
     }
   },
@@ -380,6 +384,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 0,
@@ -419,7 +425,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-02-13T05:52:53.515751",
+      "extracted_at": "2026-02-14T05:37:39.588332",
       "file_path": "data/bronze/repo_pro-bono.json"
     }
   },
@@ -517,6 +523,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 0,
@@ -556,7 +564,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-02-13T05:52:53.721768",
+      "extracted_at": "2026-02-14T05:37:39.827933",
       "file_path": "data/bronze/repo_Clash.json"
     }
   },
@@ -660,6 +668,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 0,
@@ -699,7 +709,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-02-13T05:52:53.929249",
+      "extracted_at": "2026-02-14T05:37:40.061575",
       "file_path": "data/bronze/repo_tomatoes.json"
     }
   }
