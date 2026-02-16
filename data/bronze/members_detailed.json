@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-02-15T05:49:38.207730",
+      "extracted_at": "2026-02-16T06:00:42.758769",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -176,7 +176,7 @@
     "twitter_username": null,
     "public_repos": 158,
     "public_gists": 39,
-    "followers": 234,
+    "followers": 235,
     "following": 28,
     "created_at": "2015-04-06T08:45:43Z",
     "updated_at": "2025-11-26T08:21:42Z"
@@ -314,7 +314,7 @@
     "hireable": null,
     "bio": "Hi! I'm Pietro 👋\r\nSoftware Engineer with a passion for problem solving, visualization, XP and refactoring. I thrive on continuous learning & collaboration.",
     "twitter_username": "pierodibello",
-    "public_repos": 279,
+    "public_repos": 280,
     "public_gists": 234,
     "followers": 103,
     "following": 22,
@@ -739,7 +739,7 @@
     "followers": 310,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
-    "updated_at": "2026-01-23T13:00:26Z"
+    "updated_at": "2026-02-15T16:07:44Z"
   },
   {
     "login": "yoX64",
