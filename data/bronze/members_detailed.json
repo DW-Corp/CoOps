@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-02-19T05:52:32.371271",
+      "extracted_at": "2026-02-20T05:45:37.343478",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -664,7 +664,7 @@
     "hireable": null,
     "bio": "Founder of @turnintocoders & developer @datocms.\r\n\r\nBefore that, founder of @welaika & developer @vitsoe.",
     "twitter_username": null,
-    "public_repos": 81,
+    "public_repos": 82,
     "public_gists": 10,
     "followers": 116,
     "following": 85,
