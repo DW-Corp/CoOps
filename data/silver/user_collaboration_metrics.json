@@ -1,160 +1,27 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-02-20T05:46:01.822629",
+      "extracted_at": "2026-02-21T05:35:52.182495",
       "file_path": "data/silver/user_collaboration_metrics.json",
       "record_count": 13
     }
   },
   {
-    "user": "rulrok",
-    "collaborator_count": 12,
-    "collaborators": [
-      "morrme",
-      "matjack1",
-      "Drahkir",
-      "epatarroyo",
-      "jwsloan",
-      "dependabot[bot]",
-      "madeindjs",
-      "hoffmanc",
-      "etagwerker",
-      "pirosm1",
-      "danrleypereira",
-      "potomak"
-    ],
-    "repositories_contributed": 1
-  },
-  {
-    "user": "matjack1",
-    "collaborator_count": 12,
-    "collaborators": [
-      "morrme",
-      "rulrok",
-      "Drahkir",
-      "epatarroyo",
-      "jwsloan",
-      "dependabot[bot]",
-      "madeindjs",
-      "hoffmanc",
-      "etagwerker",
-      "pirosm1",
-      "danrleypereira",
-      "potomak"
-    ],
-    "repositories_contributed": 1
-  },
-  {
-    "user": "morrme",
-    "collaborator_count": 12,
-    "collaborators": [
-      "rulrok",
-      "matjack1",
-      "Drahkir",
-      "epatarroyo",
-      "jwsloan",
-      "dependabot[bot]",
-      "madeindjs",
-      "hoffmanc",
-      "etagwerker",
-      "pirosm1",
-      "danrleypereira",
-      "potomak"
-    ],
-    "repositories_contributed": 1
-  },
-  {
-    "user": "Drahkir",
-    "collaborator_count": 12,
-    "collaborators": [
-      "morrme",
-      "rulrok",
-      "matjack1",
-      "epatarroyo",
-      "jwsloan",
-      "dependabot[bot]",
-      "madeindjs",
-      "hoffmanc",
-      "etagwerker",
-      "pirosm1",
-      "danrleypereira",
-      "potomak"
-    ],
-    "repositories_contributed": 1
-  },
-  {
-    "user": "epatarroyo",
-    "collaborator_count": 12,
-    "collaborators": [
-      "morrme",
-      "rulrok",
-      "matjack1",
-      "Drahkir",
-      "jwsloan",
-      "dependabot[bot]",
-      "madeindjs",
-      "hoffmanc",
-      "etagwerker",
-      "pirosm1",
-      "danrleypereira",
-      "potomak"
-    ],
-    "repositories_contributed": 1
-  },
-  {
     "user": "jwsloan",
     "collaborator_count": 12,
     "collaborators": [
-      "morrme",
-      "rulrok",
+      "hoffmanc",
       "matjack1",
-      "Drahkir",
-      "epatarroyo",
-      "dependabot[bot]",
       "madeindjs",
-      "hoffmanc",
-      "etagwerker",
       "pirosm1",
       "danrleypereira",
-      "potomak"
-    ],
-    "repositories_contributed": 1
-  },
-  {
-    "user": "dependabot[bot]",
-    "collaborator_count": 12,
-    "collaborators": [
-      "morrme",
-      "rulrok",
-      "matjack1",
-      "Drahkir",
-      "epatarroyo",
-      "jwsloan",
-      "madeindjs",
-      "hoffmanc",
-      "etagwerker",
-      "pirosm1",
-      "danrleypereira",
-      "potomak"
-    ],
-    "repositories_contributed": 1
-  },
-  {
-    "user": "madeindjs",
-    "collaborator_count": 12,
-    "collaborators": [
-      "morrme",
-      "rulrok",
-      "matjack1",
-      "Drahkir",
-      "epatarroyo",
-      "jwsloan",
       "dependabot[bot]",
-      "hoffmanc",
-      "etagwerker",
-      "pirosm1",
-      "danrleypereira",
-      "potomak"
+      "potomak",
+      "rulrok",
+      "morrme",
+      "Drahkir",
+      "epatarroyo",
+      "etagwerker"
     ],
     "repositories_contributed": 1
   },
@@ -162,56 +29,75 @@
     "user": "hoffmanc",
     "collaborator_count": 12,
     "collaborators": [
-      "morrme",
-      "rulrok",
       "matjack1",
       "Drahkir",
-      "epatarroyo",
-      "jwsloan",
-      "dependabot[bot]",
       "madeindjs",
-      "etagwerker",
       "pirosm1",
       "danrleypereira",
-      "potomak"
+      "dependabot[bot]",
+      "potomak",
+      "rulrok",
+      "morrme",
+      "jwsloan",
+      "epatarroyo",
+      "etagwerker"
     ],
     "repositories_contributed": 1
   },
   {
-    "user": "etagwerker",
+    "user": "matjack1",
     "collaborator_count": 12,
     "collaborators": [
-      "morrme",
-      "rulrok",
-      "matjack1",
-      "Drahkir",
-      "epatarroyo",
-      "jwsloan",
-      "dependabot[bot]",
-      "madeindjs",
       "hoffmanc",
+      "Drahkir",
+      "madeindjs",
       "pirosm1",
       "danrleypereira",
-      "potomak"
+      "dependabot[bot]",
+      "potomak",
+      "rulrok",
+      "morrme",
+      "jwsloan",
+      "epatarroyo",
+      "etagwerker"
     ],
     "repositories_contributed": 1
   },
   {
-    "user": "pirosm1",
+    "user": "epatarroyo",
     "collaborator_count": 12,
     "collaborators": [
-      "morrme",
-      "rulrok",
+      "hoffmanc",
       "matjack1",
       "Drahkir",
-      "epatarroyo",
-      "jwsloan",
-      "dependabot[bot]",
       "madeindjs",
-      "hoffmanc",
-      "etagwerker",
       "danrleypereira",
-      "potomak"
+      "dependabot[bot]",
+      "potomak",
+      "rulrok",
+      "morrme",
+      "jwsloan",
+      "pirosm1",
+      "etagwerker"
+    ],
+    "repositories_contributed": 1
+  },
+  {
+    "user": "madeindjs",
+    "collaborator_count": 12,
+    "collaborators": [
+      "hoffmanc",
+      "matjack1",
+      "Drahkir",
+      "pirosm1",
+      "danrleypereira",
+      "dependabot[bot]",
+      "potomak",
+      "rulrok",
+      "morrme",
+      "jwsloan",
+      "epatarroyo",
+      "etagwerker"
     ],
     "repositories_contributed": 1
   },
@@ -219,37 +105,151 @@
     "user": "danrleypereira",
     "collaborator_count": 12,
     "collaborators": [
-      "morrme",
-      "rulrok",
+      "hoffmanc",
       "matjack1",
       "Drahkir",
-      "epatarroyo",
-      "jwsloan",
-      "dependabot[bot]",
       "madeindjs",
-      "hoffmanc",
-      "etagwerker",
       "pirosm1",
-      "potomak"
+      "dependabot[bot]",
+      "potomak",
+      "rulrok",
+      "morrme",
+      "jwsloan",
+      "epatarroyo",
+      "etagwerker"
     ],
     "repositories_contributed": 4
+  },
+  {
+    "user": "dependabot[bot]",
+    "collaborator_count": 12,
+    "collaborators": [
+      "hoffmanc",
+      "matjack1",
+      "Drahkir",
+      "madeindjs",
+      "pirosm1",
+      "danrleypereira",
+      "potomak",
+      "rulrok",
+      "morrme",
+      "jwsloan",
+      "epatarroyo",
+      "etagwerker"
+    ],
+    "repositories_contributed": 1
   },
   {
     "user": "potomak",
     "collaborator_count": 12,
     "collaborators": [
-      "morrme",
-      "rulrok",
+      "hoffmanc",
       "matjack1",
       "Drahkir",
-      "epatarroyo",
-      "jwsloan",
-      "dependabot[bot]",
       "madeindjs",
-      "hoffmanc",
-      "etagwerker",
       "pirosm1",
-      "danrleypereira"
+      "danrleypereira",
+      "dependabot[bot]",
+      "rulrok",
+      "morrme",
+      "jwsloan",
+      "epatarroyo",
+      "etagwerker"
+    ],
+    "repositories_contributed": 1
+  },
+  {
+    "user": "rulrok",
+    "collaborator_count": 12,
+    "collaborators": [
+      "hoffmanc",
+      "matjack1",
+      "Drahkir",
+      "madeindjs",
+      "pirosm1",
+      "danrleypereira",
+      "dependabot[bot]",
+      "potomak",
+      "morrme",
+      "jwsloan",
+      "epatarroyo",
+      "etagwerker"
+    ],
+    "repositories_contributed": 1
+  },
+  {
+    "user": "morrme",
+    "collaborator_count": 12,
+    "collaborators": [
+      "hoffmanc",
+      "matjack1",
+      "Drahkir",
+      "madeindjs",
+      "pirosm1",
+      "danrleypereira",
+      "dependabot[bot]",
+      "potomak",
+      "rulrok",
+      "jwsloan",
+      "epatarroyo",
+      "etagwerker"
+    ],
+    "repositories_contributed": 1
+  },
+  {
+    "user": "Drahkir",
+    "collaborator_count": 12,
+    "collaborators": [
+      "hoffmanc",
+      "matjack1",
+      "madeindjs",
+      "pirosm1",
+      "danrleypereira",
+      "dependabot[bot]",
+      "potomak",
+      "rulrok",
+      "morrme",
+      "jwsloan",
+      "epatarroyo",
+      "etagwerker"
+    ],
+    "repositories_contributed": 1
+  },
+  {
+    "user": "pirosm1",
+    "collaborator_count": 12,
+    "collaborators": [
+      "hoffmanc",
+      "matjack1",
+      "Drahkir",
+      "madeindjs",
+      "danrleypereira",
+      "dependabot[bot]",
+      "potomak",
+      "rulrok",
+      "morrme",
+      "jwsloan",
+      "epatarroyo",
+      "etagwerker"
+    ],
+    "repositories_contributed": 1
+  },
+  {
+    "user": "etagwerker",
+    "collaborator_count": 12,
+    "collaborators": [
+      "hoffmanc",
+      "matjack1",
+      "Drahkir",
+      "madeindjs",
+      "pirosm1",
+      "danrleypereira",
+      "dependabot[bot]",
+      "potomak",
+      "rulrok",
+      "morrme",
+      "jwsloan",
+      "epatarroyo"
     ],
     "repositories_contributed": 1
   }
