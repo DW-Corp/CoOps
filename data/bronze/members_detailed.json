@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-02-23T05:59:31.899503",
+      "extracted_at": "2026-02-24T05:53:07.762965",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -529,7 +529,7 @@
     "followers": 129,
     "following": 135,
     "created_at": "2010-09-03T22:16:37Z",
-    "updated_at": "2025-10-21T15:50:04Z"
+    "updated_at": "2026-02-24T03:52:38Z"
   },
   {
     "login": "Darksider3",
@@ -564,7 +564,7 @@
     "followers": 8,
     "following": 3,
     "created_at": "2011-04-24T19:28:47Z",
-    "updated_at": "2026-01-14T10:56:05Z"
+    "updated_at": "2026-02-23T14:17:40Z"
   },
   {
     "login": "dougjohnston",
