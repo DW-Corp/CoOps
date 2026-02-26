@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-02-25T05:54:10.652902",
+      "extracted_at": "2026-02-26T05:51:52.089678",
       "file_path": "data/bronze/issue_events_all.json",
       "record_count": 1
     }
@@ -112,27 +112,6 @@
       "labels": [],
       "state": "open",
       "locked": false,
-      "assignee": {
-        "login": "danrleypereira",
-        "id": 12025215,
-        "node_id": "MDQ6VXNlcjEyMDI1MjE1",
-        "avatar_url": "https://avatars.githubusercontent.com/u/12025215?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/danrleypereira",
-        "html_url": "https://github.com/danrleypereira",
-        "followers_url": "https://api.github.com/users/danrleypereira/followers",
-        "following_url": "https://api.github.com/users/danrleypereira/following{/other_user}",
-        "gists_url": "https://api.github.com/users/danrleypereira/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/danrleypereira/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/danrleypereira/subscriptions",
-        "organizations_url": "https://api.github.com/users/danrleypereira/orgs",
-        "repos_url": "https://api.github.com/users/danrleypereira/repos",
-        "events_url": "https://api.github.com/users/danrleypereira/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/danrleypereira/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
       "assignees": [
         {
           "login": "danrleypereira",
@@ -161,6 +140,27 @@
       "created_at": "2025-07-17T05:19:28Z",
       "updated_at": "2025-07-17T05:19:28Z",
       "closed_at": null,
+      "assignee": {
+        "login": "danrleypereira",
+        "id": 12025215,
+        "node_id": "MDQ6VXNlcjEyMDI1MjE1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/12025215?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/danrleypereira",
+        "html_url": "https://github.com/danrleypereira",
+        "followers_url": "https://api.github.com/users/danrleypereira/followers",
+        "following_url": "https://api.github.com/users/danrleypereira/following{/other_user}",
+        "gists_url": "https://api.github.com/users/danrleypereira/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/danrleypereira/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/danrleypereira/subscriptions",
+        "organizations_url": "https://api.github.com/users/danrleypereira/orgs",
+        "repos_url": "https://api.github.com/users/danrleypereira/repos",
+        "events_url": "https://api.github.com/users/danrleypereira/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/danrleypereira/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
       "author_association": "CONTRIBUTOR",
       "type": null,
       "active_lock_reason": null,

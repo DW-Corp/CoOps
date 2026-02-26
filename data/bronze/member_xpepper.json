@@ -26,14 +26,14 @@
   "hireable": null,
   "bio": "Hi! I'm Pietro 👋\r\nSoftware Engineer with a passion for problem solving, visualization, XP and refactoring. I thrive on continuous learning & collaboration.",
   "twitter_username": "pierodibello",
-  "public_repos": 281,
+  "public_repos": 283,
   "public_gists": 235,
   "followers": 104,
   "following": 22,
   "created_at": "2010-10-23T13:59:12Z",
   "updated_at": "2026-02-18T09:50:57Z",
   "_metadata": {
-    "extracted_at": "2026-02-25T05:54:08.436531",
+    "extracted_at": "2026-02-26T05:51:49.803605",
     "file_path": "data/bronze/member_xpepper.json"
   }
 }

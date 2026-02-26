@@ -31,9 +31,9 @@
   "followers": 32,
   "following": 30,
   "created_at": "2012-12-21T12:17:11Z",
-  "updated_at": "2026-02-16T17:31:36Z",
+  "updated_at": "2026-02-26T00:50:06Z",
   "_metadata": {
-    "extracted_at": "2026-02-25T05:54:08.436663",
+    "extracted_at": "2026-02-26T05:51:49.803709",
     "file_path": "data/bronze/member_rulrok.json"
   }
 }
