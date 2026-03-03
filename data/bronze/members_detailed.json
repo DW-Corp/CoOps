@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-03-02T05:44:15.344224",
+      "extracted_at": "2026-03-03T05:41:57.697767",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -71,8 +71,8 @@
     "twitter_username": null,
     "public_repos": 132,
     "public_gists": 24,
-    "followers": 114,
-    "following": 557,
+    "followers": 113,
+    "following": 558,
     "created_at": "2009-02-21T15:21:29Z",
     "updated_at": "2026-02-02T08:43:39Z"
   },
@@ -526,7 +526,7 @@
     "twitter_username": null,
     "public_repos": 295,
     "public_gists": 68,
-    "followers": 129,
+    "followers": 128,
     "following": 135,
     "created_at": "2010-09-03T22:16:37Z",
     "updated_at": "2026-02-24T03:52:38Z"
@@ -634,7 +634,7 @@
     "followers": 7,
     "following": 2,
     "created_at": "2013-06-25T14:19:56Z",
-    "updated_at": "2026-02-24T14:38:41Z"
+    "updated_at": "2026-03-03T03:43:48Z"
   },
   {
     "login": "matjack1",
@@ -736,10 +736,10 @@
     "twitter_username": null,
     "public_repos": 138,
     "public_gists": 1,
-    "followers": 309,
+    "followers": 308,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
-    "updated_at": "2026-02-15T16:07:44Z"
+    "updated_at": "2026-03-02T11:48:05Z"
   },
   {
     "login": "yoX64",
