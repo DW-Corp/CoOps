@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-03-06T05:38:12.768224",
+      "extracted_at": "2026-03-07T05:32:18.763756",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -109,7 +109,7 @@
     "followers": 47,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-03-02T01:24:21Z"
+    "updated_at": "2026-03-06T05:41:17Z"
   },
   {
     "login": "polyanacunha",
@@ -634,7 +634,7 @@
     "followers": 7,
     "following": 2,
     "created_at": "2013-06-25T14:19:56Z",
-    "updated_at": "2026-03-03T03:43:48Z"
+    "updated_at": "2026-03-06T18:05:25Z"
   },
   {
     "login": "matjack1",
@@ -739,7 +739,7 @@
     "followers": 308,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
-    "updated_at": "2026-03-02T11:48:05Z"
+    "updated_at": "2026-03-06T18:58:20Z"
   },
   {
     "login": "yoX64",
@@ -774,7 +774,7 @@
     "followers": 16,
     "following": 19,
     "created_at": "2013-02-10T15:08:57Z",
-    "updated_at": "2026-01-24T18:24:28Z"
+    "updated_at": "2026-03-06T13:54:23Z"
   },
   {
     "login": "dependabot[bot]",
