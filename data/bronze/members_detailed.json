@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-03-07T05:32:18.763756",
+      "extracted_at": "2026-03-08T05:36:40.613173",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -314,7 +314,7 @@
     "hireable": null,
     "bio": "Hi! I'm Pietro 👋\r\nSoftware Engineer with a passion for problem solving, visualization, XP and refactoring. I thrive on continuous learning & collaboration.",
     "twitter_username": "pierodibello",
-    "public_repos": 283,
+    "public_repos": 284,
     "public_gists": 235,
     "followers": 104,
     "following": 22,
