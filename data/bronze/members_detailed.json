@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-03-11T05:41:20.072979",
+      "extracted_at": "2026-03-12T05:43:19.391992",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -109,7 +109,7 @@
     "followers": 47,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-03-06T05:41:17Z"
+    "updated_at": "2026-03-11T20:49:03Z"
   },
   {
     "login": "polyanacunha",
@@ -596,7 +596,7 @@
     "twitter_username": null,
     "public_repos": 38,
     "public_gists": 6,
-    "followers": 32,
+    "followers": 33,
     "following": 8,
     "created_at": "2008-06-02T05:34:00Z",
     "updated_at": "2025-10-17T00:08:43Z"
