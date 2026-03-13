@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-03-12T05:43:12.095103",
+      "extracted_at": "2026-03-13T05:41:19.507726",
       "file_path": "data/bronze/repositories_detailed.json",
       "record_count": 5
     }
@@ -141,7 +141,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-03-12T05:43:10.841840",
+      "extracted_at": "2026-03-13T05:41:18.475437",
       "file_path": "data/bronze/repo_reurb-ibict.json"
     }
   },
@@ -286,7 +286,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-03-12T05:43:11.144035",
+      "extracted_at": "2026-03-13T05:41:18.754185",
       "file_path": "data/bronze/repo_MIT.json"
     }
   },
@@ -425,7 +425,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-03-12T05:43:11.440924",
+      "extracted_at": "2026-03-13T05:41:19.003942",
       "file_path": "data/bronze/repo_pro-bono.json"
     }
   },
@@ -564,7 +564,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-03-12T05:43:11.778151",
+      "extracted_at": "2026-03-13T05:41:19.264495",
       "file_path": "data/bronze/repo_Clash.json"
     }
   },
@@ -709,7 +709,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-03-12T05:43:12.094666",
+      "extracted_at": "2026-03-13T05:41:19.507275",
       "file_path": "data/bronze/repo_tomatoes.json"
     }
   }
