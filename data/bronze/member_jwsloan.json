@@ -31,9 +31,9 @@
   "followers": 7,
   "following": 2,
   "created_at": "2013-06-25T14:19:56Z",
-  "updated_at": "2026-03-19T05:37:00Z",
+  "updated_at": "2026-03-20T16:07:10Z",
   "_metadata": {
-    "extracted_at": "2026-03-20T05:44:11.418211",
+    "extracted_at": "2026-03-21T05:35:03.895395",
     "file_path": "data/bronze/member_jwsloan.json"
   }
 }
