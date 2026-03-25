@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-03-24T05:53:38.790926",
+      "extracted_at": "2026-03-25T05:55:07.020894",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -109,7 +109,7 @@
     "followers": 48,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-03-11T20:49:03Z"
+    "updated_at": "2026-03-24T15:56:29Z"
   },
   {
     "login": "polyanacunha",
@@ -282,7 +282,7 @@
     "public_repos": 100,
     "public_gists": 108,
     "followers": 223,
-    "following": 16,
+    "following": 17,
     "created_at": "2008-07-20T09:41:15Z",
     "updated_at": "2026-02-26T13:07:51Z"
   },
@@ -634,7 +634,7 @@
     "followers": 7,
     "following": 2,
     "created_at": "2013-06-25T14:19:56Z",
-    "updated_at": "2026-03-22T11:40:29Z"
+    "updated_at": "2026-03-24T19:01:28Z"
   },
   {
     "login": "matjack1",
