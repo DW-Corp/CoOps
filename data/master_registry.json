@@ -1,58 +1,58 @@
 {
-  "created_at": "2026-03-27T06:07:28.881407",
+  "created_at": "2026-03-28T05:49:55.850522",
   "layers": {
     "bronze": {
       "repositories": [
-        "data/bronze/repositories_raw.json",
-        "data/bronze/repo_pro-bono.json",
+        "data/bronze/repositories_detailed.json",
         "data/bronze/repo_MIT.json",
-        "data/bronze/repo_reurb-ibict.json",
-        "data/bronze/repositories_filtered.json",
+        "data/bronze/repo_pro-bono.json",
         "data/bronze/repo_tomatoes.json",
-        "data/bronze/repo_Clash.json",
-        "data/bronze/repositories_detailed.json"
+        "data/bronze/repo_reurb-ibict.json",
+        "data/bronze/repositories_raw.json",
+        "data/bronze/repositories_filtered.json",
+        "data/bronze/repo_Clash.json"
       ],
       "members": [
-        "data/bronze/member_xpepper.json",
-        "data/bronze/member_epatarroyo.json",
-        "data/bronze/member_cwarden.json",
-        "data/bronze/member_danrleypereira.json",
-        "data/bronze/member_dougjohnston.json",
-        "data/bronze/member_Drahkir.json",
-        "data/bronze/member_matjack1.json",
-        "data/bronze/member_potomak.json",
-        "data/bronze/member_pirosm1.json",
-        "data/bronze/members_basic.json",
-        "data/bronze/member_dalpo.json",
-        "data/bronze/member_etagwerker.json",
-        "data/bronze/member_morrme.json",
-        "data/bronze/member_yoX64.json",
-        "data/bronze/member_Darksider3.json",
-        "data/bronze/member_gunn.json",
-        "data/bronze/member_larkinscott.json",
         "data/bronze/member_vrybas.json",
-        "data/bronze/member_piamancini.json",
-        "data/bronze/member_polyanacunha.json",
         "data/bronze/members_detailed.json",
+        "data/bronze/member_cwarden.json",
+        "data/bronze/member_jwsloan.json",
+        "data/bronze/member_matjack1.json",
+        "data/bronze/member_epatarroyo.json",
+        "data/bronze/member_dependabot[bot].json",
+        "data/bronze/member_dalpo.json",
+        "data/bronze/member_gunn.json",
+        "data/bronze/member_potomak.json",
         "data/bronze/member_hoffmanc.json",
         "data/bronze/member_rulrok.json",
+        "data/bronze/member_pirosm1.json",
+        "data/bronze/member_yoX64.json",
+        "data/bronze/members_basic.json",
+        "data/bronze/member_piamancini.json",
+        "data/bronze/member_Drahkir.json",
+        "data/bronze/member_xpepper.json",
+        "data/bronze/member_polyanacunha.json",
+        "data/bronze/member_morrme.json",
+        "data/bronze/member_Darksider3.json",
         "data/bronze/member_madeindjs.json",
-        "data/bronze/member_dependabot[bot].json",
-        "data/bronze/member_jwsloan.json"
+        "data/bronze/member_dougjohnston.json",
+        "data/bronze/member_danrleypereira.json",
+        "data/bronze/member_etagwerker.json",
+        "data/bronze/member_larkinscott.json"
       ],
       "issues": [],
       "prs": [
-        "data/bronze/issue_events_pro-bono.json",
         "data/bronze/prs_pro-bono.json",
         "data/bronze/commits_pro-bono.json",
-        "data/bronze/prs_all.json"
+        "data/bronze/prs_all.json",
+        "data/bronze/issue_events_pro-bono.json"
       ],
       "commits": [
+        "data/bronze/commits_tomatoes.json",
+        "data/bronze/commits_Clash.json",
         "data/bronze/commits_reurb-ibict.json",
         "data/bronze/commits_MIT.json",
-        "data/bronze/commits_all.json",
-        "data/bronze/commits_Clash.json",
-        "data/bronze/commits_tomatoes.json"
+        "data/bronze/commits_all.json"
       ],
       "events": [
         "data/bronze/issue_events_all.json"
@@ -64,25 +64,25 @@
     "silver": {
       "member_analytics": [
         "data/silver/maturity_bands.json",
-        "data/silver/members_analytics.json",
-        "data/silver/member_status_distribution.json"
+        "data/silver/member_status_distribution.json",
+        "data/silver/members_analytics.json"
       ],
       "contribution_metrics": [
         "data/silver/contribution_metrics.json",
-        "data/silver/repository_metrics.json",
-        "data/silver/contribution_distribution.json"
+        "data/silver/contribution_distribution.json",
+        "data/silver/repository_metrics.json"
       ],
       "collaboration_networks": [
-        "data/silver/user_collaboration_metrics.json",
-        "data/silver/collaboration_edges.json",
+        "data/silver/repository_collaboration_analysis.json",
         "data/silver/network_statistics.json",
-        "data/silver/repository_collaboration_analysis.json"
+        "data/silver/collaboration_edges.json",
+        "data/silver/user_collaboration_metrics.json"
       ],
       "temporal_analysis": [
-        "data/silver/daily_activity_summary.json",
-        "data/silver/temporal_events.json",
         "data/silver/activity_heatmap.json",
-        "data/silver/temporal_statistics.json"
+        "data/silver/temporal_statistics.json",
+        "data/silver/daily_activity_summary.json",
+        "data/silver/temporal_events.json"
       ],
       "summary_statistics": []
     },
@@ -172,370 +172,370 @@
   },
   "file_inventory": [
     {
-      "file_path": "data/bronze/registry.json",
+      "file_path": "data/bronze/commits_tomatoes.json",
       "layer": "bronze",
-      "size_bytes": 1969,
-      "modified_at": "2026-03-27T06:07:12.630980"
-    },
-    {
-      "file_path": "data/bronze/issue_events_pro-bono.json",
-      "layer": "bronze",
-      "size_bytes": 9617,
-      "modified_at": "2026-03-27T06:07:12.628981"
-    },
-    {
-      "file_path": "data/bronze/prs_pro-bono.json",
-      "layer": "bronze",
-      "size_bytes": 5542,
-      "modified_at": "2026-03-27T06:07:12.630980"
-    },
-    {
-      "file_path": "data/bronze/member_xpepper.json",
-      "layer": "bronze",
-      "size_bytes": 1682,
-      "modified_at": "2026-03-27T06:07:12.630980"
-    },
-    {
-      "file_path": "data/bronze/member_epatarroyo.json",
-      "layer": "bronze",
-      "size_bytes": 1522,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/member_cwarden.json",
-      "layer": "bronze",
-      "size_bytes": 1620,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/member_danrleypereira.json",
-      "layer": "bronze",
-      "size_bytes": 1671,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/member_dougjohnston.json",
-      "layer": "bronze",
-      "size_bytes": 1569,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/member_Drahkir.json",
-      "layer": "bronze",
-      "size_bytes": 1458,
-      "modified_at": "2026-03-27T06:07:12.628981"
-    },
-    {
-      "file_path": "data/bronze/member_matjack1.json",
-      "layer": "bronze",
-      "size_bytes": 1626,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/repositories_raw.json",
-      "layer": "bronze",
-      "size_bytes": 58899,
-      "modified_at": "2026-03-27T06:07:12.631981"
-    },
-    {
-      "file_path": "data/bronze/repo_pro-bono.json",
-      "layer": "bronze",
-      "size_bytes": 6726,
-      "modified_at": "2026-03-27T06:07:12.630980"
-    },
-    {
-      "file_path": "data/bronze/commits_reurb-ibict.json",
-      "layer": "bronze",
-      "size_bytes": 8069,
-      "modified_at": "2026-03-27T06:07:12.627981"
-    },
-    {
-      "file_path": "data/bronze/member_potomak.json",
-      "layer": "bronze",
-      "size_bytes": 1504,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/commits_MIT.json",
-      "layer": "bronze",
-      "size_bytes": 17229,
-      "modified_at": "2026-03-27T06:07:12.626981"
-    },
-    {
-      "file_path": "data/bronze/commits_pro-bono.json",
-      "layer": "bronze",
-      "size_bytes": 2802,
-      "modified_at": "2026-03-27T06:07:12.627981"
-    },
-    {
-      "file_path": "data/bronze/member_pirosm1.json",
-      "layer": "bronze",
-      "size_bytes": 1500,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/members_basic.json",
-      "layer": "bronze",
-      "size_bytes": 6949,
-      "modified_at": "2026-03-27T06:07:12.630980"
-    },
-    {
-      "file_path": "data/bronze/prs_all.json",
-      "layer": "bronze",
-      "size_bytes": 5537,
-      "modified_at": "2026-03-27T06:07:12.630980"
-    },
-    {
-      "file_path": "data/bronze/member_dalpo.json",
-      "layer": "bronze",
-      "size_bytes": 1478,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/member_etagwerker.json",
-      "layer": "bronze",
-      "size_bytes": 1605,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/member_morrme.json",
-      "layer": "bronze",
-      "size_bytes": 1417,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/commits_all.json",
-      "layer": "bronze",
-      "size_bytes": 477591,
-      "modified_at": "2026-03-27T06:07:12.627981"
-    },
-    {
-      "file_path": "data/bronze/repo_MIT.json",
-      "layer": "bronze",
-      "size_bytes": 6706,
-      "modified_at": "2026-03-27T06:07:12.630980"
-    },
-    {
-      "file_path": "data/bronze/member_yoX64.json",
-      "layer": "bronze",
-      "size_bytes": 1499,
-      "modified_at": "2026-03-27T06:07:12.630980"
-    },
-    {
-      "file_path": "data/bronze/member_Darksider3.json",
-      "layer": "bronze",
-      "size_bytes": 1521,
-      "modified_at": "2026-03-27T06:07:12.628981"
-    },
-    {
-      "file_path": "data/bronze/member_gunn.json",
-      "layer": "bronze",
-      "size_bytes": 1408,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/member_larkinscott.json",
-      "layer": "bronze",
-      "size_bytes": 1533,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/member_vrybas.json",
-      "layer": "bronze",
-      "size_bytes": 1478,
-      "modified_at": "2026-03-27T06:07:12.630980"
-    },
-    {
-      "file_path": "data/bronze/issue_events_all.json",
-      "layer": "bronze",
-      "size_bytes": 9612,
-      "modified_at": "2026-03-27T06:07:12.628981"
-    },
-    {
-      "file_path": "data/bronze/member_piamancini.json",
-      "layer": "bronze",
-      "size_bytes": 1512,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/repo_reurb-ibict.json",
-      "layer": "bronze",
-      "size_bytes": 6840,
-      "modified_at": "2026-03-27T06:07:12.630980"
-    },
-    {
-      "file_path": "data/bronze/member_polyanacunha.json",
-      "layer": "bronze",
-      "size_bytes": 1593,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/repositories_filtered.json",
-      "layer": "bronze",
-      "size_bytes": 41368,
-      "modified_at": "2026-03-27T06:07:12.631981"
-    },
-    {
-      "file_path": "data/bronze/members_detailed.json",
-      "layer": "bronze",
-      "size_bytes": 35675,
-      "modified_at": "2026-03-27T06:07:12.630980"
-    },
-    {
-      "file_path": "data/bronze/commits_Clash.json",
-      "layer": "bronze",
-      "size_bytes": 46111,
-      "modified_at": "2026-03-27T06:07:12.626981"
-    },
-    {
-      "file_path": "data/bronze/repo_tomatoes.json",
-      "layer": "bronze",
-      "size_bytes": 6856,
-      "modified_at": "2026-03-27T06:07:12.630980"
-    },
-    {
-      "file_path": "data/bronze/repo_Clash.json",
-      "layer": "bronze",
-      "size_bytes": 6564,
-      "modified_at": "2026-03-27T06:07:12.630980"
+      "size_bytes": 404053,
+      "modified_at": "2026-03-28T05:49:55.695397"
     },
     {
       "file_path": "data/bronze/repositories_detailed.json",
       "layer": "bronze",
       "size_bytes": 35289,
-      "modified_at": "2026-03-27T06:07:12.631981"
+      "modified_at": "2026-03-28T05:49:48.771758"
     },
     {
-      "file_path": "data/bronze/member_hoffmanc.json",
+      "file_path": "data/bronze/member_vrybas.json",
       "layer": "bronze",
-      "size_bytes": 1510,
-      "modified_at": "2026-03-27T06:07:12.629981"
+      "size_bytes": 1478,
+      "modified_at": "2026-03-28T05:49:52.564347"
     },
     {
-      "file_path": "data/bronze/member_rulrok.json",
+      "file_path": "data/bronze/members_detailed.json",
       "layer": "bronze",
-      "size_bytes": 1466,
-      "modified_at": "2026-03-27T06:07:12.629981"
+      "size_bytes": 35675,
+      "modified_at": "2026-03-28T05:49:52.561639"
     },
     {
-      "file_path": "data/bronze/member_madeindjs.json",
+      "file_path": "data/bronze/member_cwarden.json",
       "layer": "bronze",
-      "size_bytes": 1589,
-      "modified_at": "2026-03-27T06:07:12.629981"
-    },
-    {
-      "file_path": "data/bronze/commits_tomatoes.json",
-      "layer": "bronze",
-      "size_bytes": 404053,
-      "modified_at": "2026-03-27T06:07:12.628981"
-    },
-    {
-      "file_path": "data/bronze/member_dependabot[bot].json",
-      "layer": "bronze",
-      "size_bytes": 1569,
-      "modified_at": "2026-03-27T06:07:12.629981"
+      "size_bytes": 1620,
+      "modified_at": "2026-03-28T05:49:52.564627"
     },
     {
       "file_path": "data/bronze/member_jwsloan.json",
       "layer": "bronze",
       "size_bytes": 1435,
-      "modified_at": "2026-03-27T06:07:12.629981"
+      "modified_at": "2026-03-28T05:49:52.565077"
     },
     {
-      "file_path": "data/silver/user_collaboration_metrics.json",
-      "layer": "silver",
-      "size_bytes": 4755,
-      "modified_at": "2026-03-27T06:07:12.632981"
+      "file_path": "data/bronze/member_matjack1.json",
+      "layer": "bronze",
+      "size_bytes": 1626,
+      "modified_at": "2026-03-28T05:49:52.565221"
     },
     {
-      "file_path": "data/silver/registry.json",
-      "layer": "silver",
-      "size_bytes": 833,
-      "modified_at": "2026-03-27T06:07:12.632981"
+      "file_path": "data/bronze/prs_pro-bono.json",
+      "layer": "bronze",
+      "size_bytes": 5542,
+      "modified_at": "2026-03-28T05:49:53.523740"
     },
     {
-      "file_path": "data/silver/contribution_metrics.json",
-      "layer": "silver",
-      "size_bytes": 3345,
-      "modified_at": "2026-03-27T06:07:12.632981"
+      "file_path": "data/bronze/registry.json",
+      "layer": "bronze",
+      "size_bytes": 1969,
+      "modified_at": "2026-03-28T05:49:55.705734"
     },
     {
-      "file_path": "data/silver/maturity_bands.json",
-      "layer": "silver",
-      "size_bytes": 165,
-      "modified_at": "2026-03-27T06:07:12.632981"
+      "file_path": "data/bronze/member_epatarroyo.json",
+      "layer": "bronze",
+      "size_bytes": 1522,
+      "modified_at": "2026-03-28T05:49:52.563337"
     },
     {
-      "file_path": "data/silver/repository_metrics.json",
-      "layer": "silver",
-      "size_bytes": 920,
-      "modified_at": "2026-03-27T06:07:12.632981"
+      "file_path": "data/bronze/repo_MIT.json",
+      "layer": "bronze",
+      "size_bytes": 6706,
+      "modified_at": "2026-03-28T05:49:48.233291"
     },
     {
-      "file_path": "data/silver/daily_activity_summary.json",
-      "layer": "silver",
-      "size_bytes": 9693,
-      "modified_at": "2026-03-27T06:07:12.632981"
+      "file_path": "data/bronze/commits_Clash.json",
+      "layer": "bronze",
+      "size_bytes": 46111,
+      "modified_at": "2026-03-28T05:49:55.352488"
     },
     {
-      "file_path": "data/silver/collaboration_edges.json",
-      "layer": "silver",
-      "size_bytes": 10198,
-      "modified_at": "2026-03-27T06:07:12.631981"
+      "file_path": "data/bronze/member_dependabot[bot].json",
+      "layer": "bronze",
+      "size_bytes": 1569,
+      "modified_at": "2026-03-28T05:49:52.565775"
     },
     {
-      "file_path": "data/silver/temporal_events.json",
-      "layer": "silver",
-      "size_bytes": 13691,
-      "modified_at": "2026-03-27T06:07:12.632981"
+      "file_path": "data/bronze/member_dalpo.json",
+      "layer": "bronze",
+      "size_bytes": 1478,
+      "modified_at": "2026-03-28T05:49:52.562538"
     },
     {
-      "file_path": "data/silver/network_statistics.json",
-      "layer": "silver",
-      "size_bytes": 313,
-      "modified_at": "2026-03-27T06:07:12.632981"
+      "file_path": "data/bronze/member_gunn.json",
+      "layer": "bronze",
+      "size_bytes": 1408,
+      "modified_at": "2026-03-28T05:49:52.564487"
     },
     {
-      "file_path": "data/silver/repository_collaboration_analysis.json",
-      "layer": "silver",
+      "file_path": "data/bronze/member_potomak.json",
+      "layer": "bronze",
+      "size_bytes": 1504,
+      "modified_at": "2026-03-28T05:49:52.562365"
+    },
+    {
+      "file_path": "data/bronze/member_hoffmanc.json",
+      "layer": "bronze",
+      "size_bytes": 1510,
+      "modified_at": "2026-03-28T05:49:52.563198"
+    },
+    {
+      "file_path": "data/bronze/commits_pro-bono.json",
+      "layer": "bronze",
+      "size_bytes": 2802,
+      "modified_at": "2026-03-28T05:49:55.097399"
+    },
+    {
+      "file_path": "data/bronze/prs_all.json",
+      "layer": "bronze",
+      "size_bytes": 5537,
+      "modified_at": "2026-03-28T05:49:54.488401"
+    },
+    {
+      "file_path": "data/bronze/member_rulrok.json",
+      "layer": "bronze",
+      "size_bytes": 1466,
+      "modified_at": "2026-03-28T05:49:52.563812"
+    },
+    {
+      "file_path": "data/bronze/member_pirosm1.json",
+      "layer": "bronze",
+      "size_bytes": 1500,
+      "modified_at": "2026-03-28T05:49:52.565361"
+    },
+    {
+      "file_path": "data/bronze/repo_pro-bono.json",
+      "layer": "bronze",
+      "size_bytes": 6726,
+      "modified_at": "2026-03-28T05:49:48.417425"
+    },
+    {
+      "file_path": "data/bronze/member_yoX64.json",
+      "layer": "bronze",
+      "size_bytes": 1499,
+      "modified_at": "2026-03-28T05:49:52.565640"
+    },
+    {
+      "file_path": "data/bronze/members_basic.json",
+      "layer": "bronze",
+      "size_bytes": 6949,
+      "modified_at": "2026-03-28T05:49:49.761451"
+    },
+    {
+      "file_path": "data/bronze/commits_reurb-ibict.json",
+      "layer": "bronze",
+      "size_bytes": 8069,
+      "modified_at": "2026-03-28T05:49:54.691401"
+    },
+    {
+      "file_path": "data/bronze/repo_tomatoes.json",
+      "layer": "bronze",
+      "size_bytes": 6856,
+      "modified_at": "2026-03-28T05:49:48.771429"
+    },
+    {
+      "file_path": "data/bronze/repo_reurb-ibict.json",
+      "layer": "bronze",
+      "size_bytes": 6840,
+      "modified_at": "2026-03-28T05:49:48.032315"
+    },
+    {
+      "file_path": "data/bronze/member_piamancini.json",
+      "layer": "bronze",
+      "size_bytes": 1512,
+      "modified_at": "2026-03-28T05:49:52.565501"
+    },
+    {
+      "file_path": "data/bronze/member_Drahkir.json",
+      "layer": "bronze",
       "size_bytes": 1458,
-      "modified_at": "2026-03-27T06:07:12.632981"
+      "modified_at": "2026-03-28T05:49:52.563969"
     },
     {
-      "file_path": "data/silver/cross_repository_hubs.json",
-      "layer": "silver",
-      "size_bytes": 361,
-      "modified_at": "2026-03-27T06:07:12.632981"
+      "file_path": "data/bronze/repositories_raw.json",
+      "layer": "bronze",
+      "size_bytes": 58899,
+      "modified_at": "2026-03-28T05:49:47.850428"
+    },
+    {
+      "file_path": "data/bronze/repositories_filtered.json",
+      "layer": "bronze",
+      "size_bytes": 41368,
+      "modified_at": "2026-03-28T05:49:47.851452"
+    },
+    {
+      "file_path": "data/bronze/issue_events_all.json",
+      "layer": "bronze",
+      "size_bytes": 9612,
+      "modified_at": "2026-03-28T05:49:54.489279"
+    },
+    {
+      "file_path": "data/bronze/member_xpepper.json",
+      "layer": "bronze",
+      "size_bytes": 1682,
+      "modified_at": "2026-03-28T05:49:52.563653"
+    },
+    {
+      "file_path": "data/bronze/member_polyanacunha.json",
+      "layer": "bronze",
+      "size_bytes": 1593,
+      "modified_at": "2026-03-28T05:49:52.562883"
+    },
+    {
+      "file_path": "data/bronze/repo_Clash.json",
+      "layer": "bronze",
+      "size_bytes": 6564,
+      "modified_at": "2026-03-28T05:49:48.592706"
+    },
+    {
+      "file_path": "data/bronze/member_morrme.json",
+      "layer": "bronze",
+      "size_bytes": 1417,
+      "modified_at": "2026-03-28T05:49:52.565948"
+    },
+    {
+      "file_path": "data/bronze/member_Darksider3.json",
+      "layer": "bronze",
+      "size_bytes": 1521,
+      "modified_at": "2026-03-28T05:49:52.564767"
+    },
+    {
+      "file_path": "data/bronze/member_madeindjs.json",
+      "layer": "bronze",
+      "size_bytes": 1589,
+      "modified_at": "2026-03-28T05:49:52.563043"
+    },
+    {
+      "file_path": "data/bronze/commits_MIT.json",
+      "layer": "bronze",
+      "size_bytes": 17229,
+      "modified_at": "2026-03-28T05:49:54.909216"
+    },
+    {
+      "file_path": "data/bronze/issue_events_pro-bono.json",
+      "layer": "bronze",
+      "size_bytes": 9617,
+      "modified_at": "2026-03-28T05:49:53.802404"
+    },
+    {
+      "file_path": "data/bronze/member_dougjohnston.json",
+      "layer": "bronze",
+      "size_bytes": 1569,
+      "modified_at": "2026-03-28T05:49:52.564934"
+    },
+    {
+      "file_path": "data/bronze/member_danrleypereira.json",
+      "layer": "bronze",
+      "size_bytes": 1671,
+      "modified_at": "2026-03-28T05:49:52.562682"
+    },
+    {
+      "file_path": "data/bronze/member_etagwerker.json",
+      "layer": "bronze",
+      "size_bytes": 1605,
+      "modified_at": "2026-03-28T05:49:52.563489"
+    },
+    {
+      "file_path": "data/bronze/member_larkinscott.json",
+      "layer": "bronze",
+      "size_bytes": 1533,
+      "modified_at": "2026-03-28T05:49:52.564204"
+    },
+    {
+      "file_path": "data/bronze/commits_all.json",
+      "layer": "bronze",
+      "size_bytes": 477591,
+      "modified_at": "2026-03-28T05:49:55.704397"
     },
     {
       "file_path": "data/silver/activity_heatmap.json",
       "layer": "silver",
       "size_bytes": 12029,
-      "modified_at": "2026-03-27T06:07:12.631981"
-    },
-    {
-      "file_path": "data/silver/members_analytics.json",
-      "layer": "silver",
-      "size_bytes": 11320,
-      "modified_at": "2026-03-27T06:07:12.632981"
-    },
-    {
-      "file_path": "data/silver/contribution_distribution.json",
-      "layer": "silver",
-      "size_bytes": 336,
-      "modified_at": "2026-03-27T06:07:12.631981"
-    },
-    {
-      "file_path": "data/silver/member_status_distribution.json",
-      "layer": "silver",
-      "size_bytes": 170,
-      "modified_at": "2026-03-27T06:07:12.632981"
+      "modified_at": "2026-03-28T05:49:38.158468"
     },
     {
       "file_path": "data/silver/temporal_statistics.json",
       "layer": "silver",
       "size_bytes": 425,
-      "modified_at": "2026-03-27T06:07:12.632981"
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/maturity_bands.json",
+      "layer": "silver",
+      "size_bytes": 165,
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/registry.json",
+      "layer": "silver",
+      "size_bytes": 833,
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/cross_repository_hubs.json",
+      "layer": "silver",
+      "size_bytes": 361,
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/repository_collaboration_analysis.json",
+      "layer": "silver",
+      "size_bytes": 1458,
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/network_statistics.json",
+      "layer": "silver",
+      "size_bytes": 313,
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/collaboration_edges.json",
+      "layer": "silver",
+      "size_bytes": 10198,
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/contribution_metrics.json",
+      "layer": "silver",
+      "size_bytes": 3345,
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/contribution_distribution.json",
+      "layer": "silver",
+      "size_bytes": 336,
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/member_status_distribution.json",
+      "layer": "silver",
+      "size_bytes": 170,
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/repository_metrics.json",
+      "layer": "silver",
+      "size_bytes": 920,
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/daily_activity_summary.json",
+      "layer": "silver",
+      "size_bytes": 9693,
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/temporal_events.json",
+      "layer": "silver",
+      "size_bytes": 13691,
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/user_collaboration_metrics.json",
+      "layer": "silver",
+      "size_bytes": 4755,
+      "modified_at": "2026-03-28T05:49:38.159141"
+    },
+    {
+      "file_path": "data/silver/members_analytics.json",
+      "layer": "silver",
+      "size_bytes": 11320,
+      "modified_at": "2026-03-28T05:49:38.159141"
     }
   ]
 }
