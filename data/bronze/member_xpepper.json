@@ -31,9 +31,9 @@
   "followers": 106,
   "following": 22,
   "created_at": "2010-10-23T13:59:12Z",
-  "updated_at": "2026-02-18T09:50:57Z",
+  "updated_at": "2026-04-07T06:36:23Z",
   "_metadata": {
-    "extracted_at": "2026-04-07T06:13:23.970352",
+    "extracted_at": "2026-04-08T06:15:13.084337",
     "file_path": "data/bronze/member_xpepper.json"
   }
 }
