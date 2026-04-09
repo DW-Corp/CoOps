@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-04-08T06:15:13.082265",
+      "extracted_at": "2026-04-09T06:14:43.201511",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -144,7 +144,7 @@
     "followers": 7,
     "following": 2,
     "created_at": "2022-02-01T23:41:40Z",
-    "updated_at": "2026-03-23T12:34:19Z"
+    "updated_at": "2026-04-09T02:45:46Z"
   },
   {
     "login": "madeindjs",
@@ -739,7 +739,7 @@
     "followers": 314,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
-    "updated_at": "2026-04-04T15:05:48Z"
+    "updated_at": "2026-04-08T13:51:49Z"
   },
   {
     "login": "yoX64",
