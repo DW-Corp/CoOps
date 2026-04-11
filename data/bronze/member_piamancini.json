@@ -28,12 +28,12 @@
   "twitter_username": null,
   "public_repos": 139,
   "public_gists": 1,
-  "followers": 313,
+  "followers": 314,
   "following": 0,
   "created_at": "2013-02-22T15:56:23Z",
   "updated_at": "2026-04-08T13:51:49Z",
   "_metadata": {
-    "extracted_at": "2026-04-10T06:26:40.877110",
+    "extracted_at": "2026-04-11T05:53:44.181783",
     "file_path": "data/bronze/member_piamancini.json"
   }
 }
