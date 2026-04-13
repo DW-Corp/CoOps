@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-04-12T06:18:47.115070",
+      "extracted_at": "2026-04-13T07:08:42.597954",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -36,7 +36,7 @@
     "twitter_username": null,
     "public_repos": 195,
     "public_gists": 45,
-    "followers": 188,
+    "followers": 187,
     "following": 142,
     "created_at": "2009-11-16T10:44:47Z",
     "updated_at": "2025-07-05T16:38:57Z"
@@ -71,7 +71,7 @@
     "twitter_username": null,
     "public_repos": 132,
     "public_gists": 24,
-    "followers": 112,
+    "followers": 111,
     "following": 558,
     "created_at": "2009-02-21T15:21:29Z",
     "updated_at": "2026-02-02T08:43:39Z"
@@ -109,7 +109,7 @@
     "followers": 48,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-03-24T15:56:29Z"
+    "updated_at": "2026-04-12T18:41:08Z"
   },
   {
     "login": "polyanacunha",
@@ -739,7 +739,7 @@
     "followers": 314,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
-    "updated_at": "2026-04-08T13:51:49Z"
+    "updated_at": "2026-04-13T07:03:43Z"
   },
   {
     "login": "yoX64",
