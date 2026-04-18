@@ -26,14 +26,14 @@
   "hireable": true,
   "bio": null,
   "twitter_username": null,
-  "public_repos": 132,
+  "public_repos": 133,
   "public_gists": 24,
   "followers": 111,
   "following": 558,
   "created_at": "2009-02-21T15:21:29Z",
   "updated_at": "2026-02-02T08:43:39Z",
   "_metadata": {
-    "extracted_at": "2026-04-17T06:28:50.276021",
+    "extracted_at": "2026-04-18T06:07:13.240377",
     "file_path": "data/bronze/member_dalpo.json"
   }
 }
