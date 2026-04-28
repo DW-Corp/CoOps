@@ -28,12 +28,12 @@
   "twitter_username": null,
   "public_repos": 158,
   "public_gists": 39,
-  "followers": 239,
+  "followers": 240,
   "following": 29,
   "created_at": "2015-04-06T08:45:43Z",
   "updated_at": "2025-11-26T08:21:42Z",
   "_metadata": {
-    "extracted_at": "2026-04-27T07:29:24.261004",
+    "extracted_at": "2026-04-28T07:26:28.151153",
     "file_path": "data/bronze/member_madeindjs.json"
   }
 }
