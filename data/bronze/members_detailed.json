@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-04T07:42:35.886975",
+      "extracted_at": "2026-05-05T07:11:51.532619",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -39,7 +39,7 @@
     "followers": 187,
     "following": 142,
     "created_at": "2009-11-16T10:44:47Z",
-    "updated_at": "2025-07-05T16:38:57Z"
+    "updated_at": "2026-05-05T02:06:56Z"
   },
   {
     "login": "dalpo",
@@ -109,7 +109,7 @@
     "followers": 47,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-04-14T20:25:38Z"
+    "updated_at": "2026-05-04T21:10:51Z"
   },
   {
     "login": "polyanacunha",
@@ -354,7 +354,7 @@
     "followers": 33,
     "following": 30,
     "created_at": "2012-12-21T12:17:11Z",
-    "updated_at": "2026-05-04T05:03:17Z"
+    "updated_at": "2026-05-04T22:09:32Z"
   },
   {
     "login": "Drahkir",
