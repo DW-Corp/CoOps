@@ -31,9 +31,9 @@
   "followers": 113,
   "following": 558,
   "created_at": "2009-02-21T15:21:29Z",
-  "updated_at": "2026-02-02T08:43:39Z",
+  "updated_at": "2026-05-06T09:34:05Z",
   "_metadata": {
-    "extracted_at": "2026-05-06T07:43:56.682814",
+    "extracted_at": "2026-05-07T07:37:05.402363",
     "file_path": "data/bronze/member_dalpo.json"
   }
 }

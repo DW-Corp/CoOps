@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-06T07:43:56.681628",
+      "extracted_at": "2026-05-07T07:37:05.401178",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -74,7 +74,7 @@
     "followers": 113,
     "following": 558,
     "created_at": "2009-02-21T15:21:29Z",
-    "updated_at": "2026-02-02T08:43:39Z"
+    "updated_at": "2026-05-06T09:34:05Z"
   },
   {
     "login": "danrleypereira",
@@ -109,7 +109,7 @@
     "followers": 47,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-05-04T21:10:51Z"
+    "updated_at": "2026-05-06T22:18:51Z"
   },
   {
     "login": "polyanacunha",
@@ -284,7 +284,7 @@
     "followers": 226,
     "following": 17,
     "created_at": "2008-07-20T09:41:15Z",
-    "updated_at": "2026-04-22T18:55:54Z"
+    "updated_at": "2026-05-06T20:52:46Z"
   },
   {
     "login": "xpepper",
@@ -459,7 +459,7 @@
     "followers": 63,
     "following": 18,
     "created_at": "2008-10-23T06:42:07Z",
-    "updated_at": "2026-05-01T16:39:08Z"
+    "updated_at": "2026-05-06T09:02:40Z"
   },
   {
     "login": "gunn",
