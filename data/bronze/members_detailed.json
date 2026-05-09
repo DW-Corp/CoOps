@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-08T06:27:39.910302",
+      "extracted_at": "2026-05-09T07:02:23.552813",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -39,7 +39,7 @@
     "followers": 187,
     "following": 142,
     "created_at": "2009-11-16T10:44:47Z",
-    "updated_at": "2026-05-05T02:06:56Z"
+    "updated_at": "2026-05-08T13:03:41Z"
   },
   {
     "login": "dalpo",
@@ -109,7 +109,7 @@
     "followers": 47,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-05-06T22:18:51Z"
+    "updated_at": "2026-05-08T19:56:49Z"
   },
   {
     "login": "polyanacunha",
@@ -736,7 +736,7 @@
     "twitter_username": null,
     "public_repos": 139,
     "public_gists": 1,
-    "followers": 317,
+    "followers": 318,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
     "updated_at": "2026-04-21T11:20:28Z"
