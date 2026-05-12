@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-11T08:19:52.022354",
+      "extracted_at": "2026-05-12T07:37:26.642580",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -109,7 +109,7 @@
     "followers": 47,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-05-08T19:56:49Z"
+    "updated_at": "2026-05-11T14:51:55Z"
   },
   {
     "login": "polyanacunha",
@@ -459,7 +459,7 @@
     "followers": 63,
     "following": 18,
     "created_at": "2008-10-23T06:42:07Z",
-    "updated_at": "2026-05-06T09:02:40Z"
+    "updated_at": "2026-05-11T20:38:15Z"
   },
   {
     "login": "gunn",
