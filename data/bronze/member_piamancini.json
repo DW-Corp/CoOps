@@ -31,9 +31,9 @@
   "followers": 318,
   "following": 0,
   "created_at": "2013-02-22T15:56:23Z",
-  "updated_at": "2026-04-21T11:20:28Z",
+  "updated_at": "2026-05-12T11:24:36Z",
   "_metadata": {
-    "extracted_at": "2026-05-12T07:37:26.646358",
+    "extracted_at": "2026-05-13T07:44:43.683438",
     "file_path": "data/bronze/member_piamancini.json"
   }
 }

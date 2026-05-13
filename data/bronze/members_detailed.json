@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-12T07:37:26.642580",
+      "extracted_at": "2026-05-13T07:44:43.679211",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -109,7 +109,7 @@
     "followers": 47,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-05-11T14:51:55Z"
+    "updated_at": "2026-05-13T02:57:55Z"
   },
   {
     "login": "polyanacunha",
@@ -524,7 +524,7 @@
     "hireable": true,
     "bio": "Salesforce Development Professional/Linux Aficionado/Economics Dilettante. \r\n\r\nPrincipal, @octoberswimmer.",
     "twitter_username": null,
-    "public_repos": 300,
+    "public_repos": 302,
     "public_gists": 68,
     "followers": 131,
     "following": 135,
@@ -739,7 +739,7 @@
     "followers": 318,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
-    "updated_at": "2026-04-21T11:20:28Z"
+    "updated_at": "2026-05-12T11:24:36Z"
   },
   {
     "login": "yoX64",
