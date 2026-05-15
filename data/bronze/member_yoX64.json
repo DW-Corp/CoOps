@@ -19,7 +19,7 @@
   "user_view_type": "public",
   "site_admin": false,
   "name": "Werner Banyacskay",
-  "company": "[e-spres-oh]",
+  "company": null,
   "blog": "https://werner.banyacskay.com",
   "location": "Romania",
   "email": "werner.x64@gmail.com",
@@ -31,9 +31,9 @@
   "followers": 16,
   "following": 19,
   "created_at": "2013-02-10T15:08:57Z",
-  "updated_at": "2026-05-13T09:02:36Z",
+  "updated_at": "2026-05-14T12:12:38Z",
   "_metadata": {
-    "extracted_at": "2026-05-14T07:37:08.786820",
+    "extracted_at": "2026-05-15T07:47:49.752469",
     "file_path": "data/bronze/member_yoX64.json"
   }
 }
