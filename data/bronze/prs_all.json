@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-19T08:20:20.609071",
+      "extracted_at": "2026-05-20T08:19:27.132570",
       "file_path": "data/bronze/prs_all.json",
       "record_count": 1
     }
@@ -91,6 +91,7 @@
       "site_admin": false
     },
     "author_association": "CONTRIBUTOR",
+    "issue_field_values": [],
     "type": null,
     "active_lock_reason": null,
     "draft": false,

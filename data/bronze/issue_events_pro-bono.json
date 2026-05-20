@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-05-19T08:20:19.618615",
+      "extracted_at": "2026-05-20T08:19:26.013022",
       "file_path": "data/bronze/issue_events_pro-bono.json",
       "record_count": 1
     }
@@ -162,6 +162,7 @@
         "site_admin": false
       },
       "author_association": "CONTRIBUTOR",
+      "issue_field_values": [],
       "type": null,
       "active_lock_reason": null,
       "draft": false,
