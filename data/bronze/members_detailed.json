@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-06-19T09:23:58.018536",
+      "extracted_at": "2026-06-20T08:16:38.856464",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -71,7 +71,7 @@
     "twitter_username": null,
     "public_repos": 133,
     "public_gists": 24,
-    "followers": 110,
+    "followers": 111,
     "following": 558,
     "created_at": "2009-02-21T15:21:29Z",
     "updated_at": "2026-05-06T09:34:05Z"
@@ -704,7 +704,7 @@
     "followers": 2,
     "following": 1,
     "created_at": "2015-09-04T18:03:23Z",
-    "updated_at": "2026-02-13T02:59:54Z"
+    "updated_at": "2026-06-20T02:02:53Z"
   },
   {
     "login": "piamancini",
