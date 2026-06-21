@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-06-20T08:16:38.856464",
+      "extracted_at": "2026-06-21T08:53:31.781710",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -249,7 +249,7 @@
     "followers": 2,
     "following": 2,
     "created_at": "2012-12-07T13:13:24Z",
-    "updated_at": "2026-04-27T17:43:09Z"
+    "updated_at": "2026-06-20T15:42:54Z"
   },
   {
     "login": "etagwerker",
@@ -354,7 +354,7 @@
     "followers": 33,
     "following": 30,
     "created_at": "2012-12-21T12:17:11Z",
-    "updated_at": "2026-05-30T16:29:59Z"
+    "updated_at": "2026-06-21T03:07:23Z"
   },
   {
     "login": "Drahkir",
@@ -456,7 +456,7 @@
     "twitter_username": null,
     "public_repos": 48,
     "public_gists": 18,
-    "followers": 63,
+    "followers": 64,
     "following": 18,
     "created_at": "2008-10-23T06:42:07Z",
     "updated_at": "2026-05-11T20:38:15Z"
