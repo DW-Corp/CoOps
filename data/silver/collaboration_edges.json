@@ -1,62 +1,74 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-06-21T08:53:57.886733",
+      "extracted_at": "2026-06-22T10:32:13.990713",
       "file_path": "data/silver/collaboration_edges.json",
       "record_count": 78
     }
   },
   {
-    "user1": "Drahkir",
+    "user1": "dependabot[bot]",
     "user2": "epatarroyo",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "Drahkir",
-    "user2": "pirosm1",
+    "user1": "dependabot[bot]",
+    "user2": "jwsloan",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "Drahkir",
-    "user2": "rulrok",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "Drahkir",
-    "user2": "morrme",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "Drahkir",
-    "user2": "madeindjs",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "Drahkir",
-    "user2": "matjack1",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "Drahkir",
-    "user2": "hoffmanc",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "Drahkir",
+    "user1": "dependabot[bot]",
     "user2": "etagwerker",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "Drahkir",
-    "user2": "danrleypereira",
+    "user1": "dependabot[bot]",
+    "user2": "rulrok",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "dependabot[bot]",
+    "user2": "morrme",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "dependabot[bot]",
+    "user2": "matjack1",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "dependabot[bot]",
+    "user2": "hoffmanc",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "dependabot[bot]",
+    "user2": "madeindjs",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "dependabot[bot]",
+    "user2": "potomak",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "danrleypereira",
+    "user2": "dependabot[bot]",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "dependabot[bot]",
+    "user2": "pirosm1",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
@@ -67,20 +79,14 @@
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "Drahkir",
+    "user1": "epatarroyo",
     "user2": "jwsloan",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "Drahkir",
-    "user2": "potomak",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
     "user1": "epatarroyo",
-    "user2": "pirosm1",
+    "user2": "etagwerker",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
@@ -98,12 +104,6 @@
   },
   {
     "user1": "epatarroyo",
-    "user2": "madeindjs",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "epatarroyo",
     "user2": "matjack1",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
@@ -116,7 +116,13 @@
   },
   {
     "user1": "epatarroyo",
-    "user2": "etagwerker",
+    "user2": "madeindjs",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "epatarroyo",
+    "user2": "potomak",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
@@ -127,68 +133,62 @@
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "dependabot[bot]",
+    "user1": "epatarroyo",
+    "user2": "pirosm1",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "Drahkir",
     "user2": "epatarroyo",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "epatarroyo",
+    "user1": "etagwerker",
     "user2": "jwsloan",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "epatarroyo",
-    "user2": "potomak",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "pirosm1",
+    "user1": "jwsloan",
     "user2": "rulrok",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "morrme",
-    "user2": "pirosm1",
+    "user1": "jwsloan",
+    "user2": "morrme",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "madeindjs",
-    "user2": "pirosm1",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "matjack1",
-    "user2": "pirosm1",
+    "user1": "jwsloan",
+    "user2": "matjack1",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
     "user1": "hoffmanc",
-    "user2": "pirosm1",
+    "user2": "jwsloan",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "etagwerker",
-    "user2": "pirosm1",
+    "user1": "jwsloan",
+    "user2": "madeindjs",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "jwsloan",
+    "user2": "potomak",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
     "user1": "danrleypereira",
-    "user2": "pirosm1",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "dependabot[bot]",
-    "user2": "pirosm1",
+    "user2": "jwsloan",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
@@ -199,19 +199,67 @@
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "pirosm1",
-    "user2": "potomak",
+    "user1": "Drahkir",
+    "user2": "jwsloan",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "morrme",
+    "user1": "etagwerker",
     "user2": "rulrok",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "madeindjs",
+    "user1": "etagwerker",
+    "user2": "morrme",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "etagwerker",
+    "user2": "matjack1",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "etagwerker",
+    "user2": "hoffmanc",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "etagwerker",
+    "user2": "madeindjs",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "etagwerker",
+    "user2": "potomak",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "danrleypereira",
+    "user2": "etagwerker",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "etagwerker",
+    "user2": "pirosm1",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "Drahkir",
+    "user2": "etagwerker",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "morrme",
     "user2": "rulrok",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
@@ -229,25 +277,7 @@
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "etagwerker",
-    "user2": "rulrok",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "danrleypereira",
-    "user2": "rulrok",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "dependabot[bot]",
-    "user2": "rulrok",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "jwsloan",
+    "user1": "madeindjs",
     "user2": "rulrok",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
@@ -259,8 +289,20 @@
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "madeindjs",
-    "user2": "morrme",
+    "user1": "danrleypereira",
+    "user2": "rulrok",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "pirosm1",
+    "user2": "rulrok",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "Drahkir",
+    "user2": "rulrok",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
@@ -277,25 +319,7 @@
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "etagwerker",
-    "user2": "morrme",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "danrleypereira",
-    "user2": "morrme",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "dependabot[bot]",
-    "user2": "morrme",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "jwsloan",
+    "user1": "madeindjs",
     "user2": "morrme",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
@@ -307,44 +331,20 @@
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "madeindjs",
-    "user2": "matjack1",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "hoffmanc",
-    "user2": "madeindjs",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "etagwerker",
-    "user2": "madeindjs",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
     "user1": "danrleypereira",
-    "user2": "madeindjs",
+    "user2": "morrme",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "dependabot[bot]",
-    "user2": "madeindjs",
+    "user1": "morrme",
+    "user2": "pirosm1",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "jwsloan",
-    "user2": "madeindjs",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "madeindjs",
-    "user2": "potomak",
+    "user1": "Drahkir",
+    "user2": "morrme",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
@@ -355,25 +355,7 @@
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "etagwerker",
-    "user2": "matjack1",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "danrleypereira",
-    "user2": "matjack1",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "dependabot[bot]",
-    "user2": "matjack1",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "jwsloan",
+    "user1": "madeindjs",
     "user2": "matjack1",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
@@ -385,68 +367,74 @@
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "etagwerker",
-    "user2": "hoffmanc",
+    "user1": "danrleypereira",
+    "user2": "matjack1",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "matjack1",
+    "user2": "pirosm1",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "Drahkir",
+    "user2": "matjack1",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "hoffmanc",
+    "user2": "madeindjs",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "hoffmanc",
+    "user2": "potomak",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
     "user1": "danrleypereira",
-    "user2": "hoffmanc",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "dependabot[bot]",
     "user2": "hoffmanc",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
     "user1": "hoffmanc",
-    "user2": "jwsloan",
+    "user2": "pirosm1",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "hoffmanc",
+    "user1": "Drahkir",
+    "user2": "hoffmanc",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "madeindjs",
     "user2": "potomak",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
     "user1": "danrleypereira",
-    "user2": "etagwerker",
+    "user2": "madeindjs",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "dependabot[bot]",
-    "user2": "etagwerker",
+    "user1": "madeindjs",
+    "user2": "pirosm1",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "etagwerker",
-    "user2": "jwsloan",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "etagwerker",
-    "user2": "potomak",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "danrleypereira",
-    "user2": "dependabot[bot]",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "danrleypereira",
-    "user2": "jwsloan",
+    "user1": "Drahkir",
+    "user2": "madeindjs",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
@@ -457,20 +445,32 @@
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "dependabot[bot]",
-    "user2": "jwsloan",
-    "repo": "tomatoes",
-    "collaboration_type": "same_repository"
-  },
-  {
-    "user1": "dependabot[bot]",
+    "user1": "pirosm1",
     "user2": "potomak",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   },
   {
-    "user1": "jwsloan",
+    "user1": "Drahkir",
     "user2": "potomak",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "danrleypereira",
+    "user2": "pirosm1",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "Drahkir",
+    "user2": "danrleypereira",
+    "repo": "tomatoes",
+    "collaboration_type": "same_repository"
+  },
+  {
+    "user1": "Drahkir",
+    "user2": "pirosm1",
     "repo": "tomatoes",
     "collaboration_type": "same_repository"
   }
