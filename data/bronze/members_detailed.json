@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-07-01T08:43:27.709108",
+      "extracted_at": "2026-07-02T07:59:40.232243",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -179,7 +179,7 @@
     "followers": 240,
     "following": 29,
     "created_at": "2015-04-06T08:45:43Z",
-    "updated_at": "2025-11-26T08:21:42Z"
+    "updated_at": "2026-07-01T20:39:33Z"
   },
   {
     "login": "hoffmanc",
@@ -316,7 +316,7 @@
     "twitter_username": "pierodibello",
     "public_repos": 298,
     "public_gists": 235,
-    "followers": 108,
+    "followers": 107,
     "following": 22,
     "created_at": "2010-10-23T13:59:12Z",
     "updated_at": "2026-04-07T06:36:23Z"
@@ -594,7 +594,7 @@
     "hireable": true,
     "bio": null,
     "twitter_username": null,
-    "public_repos": 38,
+    "public_repos": 37,
     "public_gists": 6,
     "followers": 32,
     "following": 8,
