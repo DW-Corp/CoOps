@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-07-02T07:59:40.232243",
+      "extracted_at": "2026-07-03T07:55:10.033598",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -109,7 +109,7 @@
     "followers": 46,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-05-27T23:11:14Z"
+    "updated_at": "2026-07-02T21:21:13Z"
   },
   {
     "login": "polyanacunha",
@@ -174,12 +174,12 @@
     "hireable": true,
     "bio": "Passionate developer. I love clean code, clean logic and my girlfriend.",
     "twitter_username": null,
-    "public_repos": 158,
+    "public_repos": 159,
     "public_gists": 39,
     "followers": 240,
     "following": 29,
     "created_at": "2015-04-06T08:45:43Z",
-    "updated_at": "2026-07-01T20:39:33Z"
+    "updated_at": "2026-07-03T07:13:05Z"
   },
   {
     "login": "hoffmanc",
@@ -316,7 +316,7 @@
     "twitter_username": "pierodibello",
     "public_repos": 298,
     "public_gists": 235,
-    "followers": 107,
+    "followers": 108,
     "following": 22,
     "created_at": "2010-10-23T13:59:12Z",
     "updated_at": "2026-04-07T06:36:23Z"
@@ -354,7 +354,7 @@
     "followers": 33,
     "following": 30,
     "created_at": "2012-12-21T12:17:11Z",
-    "updated_at": "2026-06-30T07:03:58Z"
+    "updated_at": "2026-07-02T21:55:53Z"
   },
   {
     "login": "Drahkir",
@@ -491,7 +491,7 @@
     "twitter_username": null,
     "public_repos": 113,
     "public_gists": 39,
-    "followers": 53,
+    "followers": 54,
     "following": 12,
     "created_at": "2008-12-24T14:56:57Z",
     "updated_at": "2026-05-25T04:53:14Z"
