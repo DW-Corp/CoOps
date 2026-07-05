@@ -31,9 +31,9 @@
   "followers": 187,
   "following": 142,
   "created_at": "2009-11-16T10:44:47Z",
-  "updated_at": "2026-06-21T09:33:26Z",
+  "updated_at": "2026-07-05T02:55:05Z",
   "_metadata": {
-    "extracted_at": "2026-07-04T07:36:42.065657",
+    "extracted_at": "2026-07-05T07:51:38.812886",
     "file_path": "data/bronze/member_potomak.json"
   }
 }
