@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-07-21T07:27:03.548310",
+      "extracted_at": "2026-07-22T07:28:49.985391",
       "file_path": "data/bronze/repositories_detailed.json",
       "record_count": 5
     }
@@ -87,7 +87,7 @@
     "language": "Ruby",
     "has_issues": true,
     "has_projects": true,
-    "has_downloads": true,
+    "has_downloads": false,
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
@@ -141,7 +141,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-07-21T07:27:02.057979",
+      "extracted_at": "2026-07-22T07:28:48.974628",
       "file_path": "data/bronze/repo_reurb-ibict.json"
     }
   },
@@ -226,7 +226,7 @@
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
-    "has_downloads": true,
+    "has_downloads": false,
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
@@ -286,7 +286,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-07-21T07:27:02.437726",
+      "extracted_at": "2026-07-22T07:28:49.236458",
       "file_path": "data/bronze/repo_MIT.json"
     }
   },
@@ -371,7 +371,7 @@
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
-    "has_downloads": true,
+    "has_downloads": false,
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
@@ -425,7 +425,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-07-21T07:27:02.801494",
+      "extracted_at": "2026-07-22T07:28:49.494771",
       "file_path": "data/bronze/repo_pro-bono.json"
     }
   },
@@ -510,7 +510,7 @@
     "language": null,
     "has_issues": true,
     "has_projects": true,
-    "has_downloads": true,
+    "has_downloads": false,
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
@@ -564,7 +564,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-07-21T07:27:03.173908",
+      "extracted_at": "2026-07-22T07:28:49.746102",
       "file_path": "data/bronze/repo_Clash.json"
     }
   },
@@ -649,7 +649,7 @@
     "language": "Ruby",
     "has_issues": true,
     "has_projects": true,
-    "has_downloads": true,
+    "has_downloads": false,
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
@@ -709,7 +709,7 @@
     "network_count": 0,
     "subscribers_count": 1,
     "_metadata": {
-      "extracted_at": "2026-07-21T07:27:03.547877",
+      "extracted_at": "2026-07-22T07:28:49.984920",
       "file_path": "data/bronze/repo_tomatoes.json"
     }
   }

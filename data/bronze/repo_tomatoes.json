@@ -79,7 +79,7 @@
   "language": "Ruby",
   "has_issues": true,
   "has_projects": true,
-  "has_downloads": true,
+  "has_downloads": false,
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
@@ -139,7 +139,7 @@
   "network_count": 0,
   "subscribers_count": 1,
   "_metadata": {
-    "extracted_at": "2026-07-21T07:27:03.547877",
+    "extracted_at": "2026-07-22T07:28:49.984920",
     "file_path": "data/bronze/repo_tomatoes.json"
   }
 }
