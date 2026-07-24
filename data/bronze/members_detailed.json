@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-07-23T07:26:35.061131",
+      "extracted_at": "2026-07-24T07:25:10.041985",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -36,7 +36,7 @@
     "twitter_username": null,
     "public_repos": 196,
     "public_gists": 45,
-    "followers": 189,
+    "followers": 188,
     "following": 142,
     "created_at": "2009-11-16T10:44:47Z",
     "updated_at": "2026-07-05T02:55:05Z"
@@ -316,7 +316,7 @@
     "twitter_username": "pierodibello",
     "public_repos": 299,
     "public_gists": 235,
-    "followers": 109,
+    "followers": 110,
     "following": 22,
     "created_at": "2010-10-23T13:59:12Z",
     "updated_at": "2026-07-18T18:11:08Z"

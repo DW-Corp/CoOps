@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-07-23T07:26:37.259810",
+      "extracted_at": "2026-07-24T07:25:12.187740",
       "file_path": "data/bronze/issue_events_pro-bono.json",
       "record_count": 1
     }
@@ -77,6 +77,7 @@
       "user_view_type": "public",
       "site_admin": false
     },
+    "intent": null,
     "issue": {
       "url": "https://api.github.com/repos/DW-Corp/pro-bono/issues/1",
       "repository_url": "https://api.github.com/repos/DW-Corp/pro-bono",
