@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-07-29T07:37:03.806360",
+      "extracted_at": "2026-07-30T07:26:58.252073",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -174,7 +174,7 @@
     "hireable": true,
     "bio": "Passionate developer. I love clean code, clean logic and my girlfriend.",
     "twitter_username": null,
-    "public_repos": 159,
+    "public_repos": 160,
     "public_gists": 39,
     "followers": 242,
     "following": 29,
@@ -634,7 +634,7 @@
     "followers": 7,
     "following": 2,
     "created_at": "2013-06-25T14:19:56Z",
-    "updated_at": "2026-07-26T19:35:43Z"
+    "updated_at": "2026-07-29T16:41:17Z"
   },
   {
     "login": "matjack1",
