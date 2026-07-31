@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-07-30T07:26:58.252073",
+      "extracted_at": "2026-07-31T07:44:45.305569",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -71,7 +71,7 @@
     "twitter_username": null,
     "public_repos": 133,
     "public_gists": 24,
-    "followers": 114,
+    "followers": 115,
     "following": 558,
     "created_at": "2009-02-21T15:21:29Z",
     "updated_at": "2026-05-06T09:34:05Z"
@@ -104,12 +104,12 @@
     "hireable": null,
     "bio": "Software Engineer that can deliver value in any part of the life cycle of a software. ",
     "twitter_username": null,
-    "public_repos": 55,
+    "public_repos": 56,
     "public_gists": 0,
     "followers": 47,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-07-18T22:40:30Z"
+    "updated_at": "2026-07-30T23:57:26Z"
   },
   {
     "login": "polyanacunha",
@@ -736,7 +736,7 @@
     "twitter_username": null,
     "public_repos": 139,
     "public_gists": 1,
-    "followers": 318,
+    "followers": 317,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
     "updated_at": "2026-07-17T09:35:40Z"
