@@ -28,12 +28,12 @@
   "twitter_username": null,
   "public_repos": 133,
   "public_gists": 24,
-  "followers": 115,
+  "followers": 116,
   "following": 558,
   "created_at": "2009-02-21T15:21:29Z",
   "updated_at": "2026-05-06T09:34:05Z",
   "_metadata": {
-    "extracted_at": "2026-08-01T07:22:56.910015",
+    "extracted_at": "2026-08-02T07:26:21.431764",
     "file_path": "data/bronze/member_dalpo.json"
   }
 }
