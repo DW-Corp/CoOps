@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-08-10T06:05:59.563322",
+      "extracted_at": "2026-08-11T05:47:07.794166",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -179,7 +179,7 @@
     "followers": 243,
     "following": 29,
     "created_at": "2015-04-06T08:45:43Z",
-    "updated_at": "2026-07-03T07:13:05Z"
+    "updated_at": "2026-08-10T08:58:58Z"
   },
   {
     "login": "hoffmanc",
@@ -314,7 +314,7 @@
     "hireable": null,
     "bio": "Hi! I'm Pietro 👋\r\nSoftware Engineer with a passion for problem solving, visualization, XP, refactoring, AI, and agentic coding.",
     "twitter_username": "pierodibello",
-    "public_repos": 300,
+    "public_repos": 301,
     "public_gists": 235,
     "followers": 110,
     "following": 22,
