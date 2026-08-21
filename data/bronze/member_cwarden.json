@@ -31,9 +31,9 @@
   "followers": 136,
   "following": 135,
   "created_at": "2010-09-03T22:16:37Z",
-  "updated_at": "2026-08-14T15:13:28Z",
+  "updated_at": "2026-08-20T22:08:35Z",
   "_metadata": {
-    "extracted_at": "2026-08-20T05:21:09.756181",
+    "extracted_at": "2026-08-21T05:23:03.605029",
     "file_path": "data/bronze/member_cwarden.json"
   }
 }
