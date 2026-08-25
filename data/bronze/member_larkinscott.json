@@ -28,12 +28,12 @@
   "twitter_username": null,
   "public_repos": 13,
   "public_gists": 2,
-  "followers": 22,
+  "followers": 23,
   "following": 18,
   "created_at": "2016-10-12T17:09:10Z",
   "updated_at": "2025-11-14T21:34:21Z",
   "_metadata": {
-    "extracted_at": "2026-08-24T05:29:18.357243",
+    "extracted_at": "2026-08-25T05:22:44.447934",
     "file_path": "data/bronze/member_larkinscott.json"
   }
 }
