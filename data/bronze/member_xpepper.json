@@ -24,16 +24,16 @@
   "location": "Trento, Italy",
   "email": "pierodibello@gmail.com",
   "hireable": null,
-  "bio": "Hi! I'm Pietro 👋\r\nSoftware Engineer with a passion for problem solving, visualization, XP, refactoring, AI, and agentic coding.",
+  "bio": "I break problems down, build software up, and let AI agents do the heavy lifting 😄",
   "twitter_username": "pierodibello",
   "public_repos": 302,
   "public_gists": 235,
   "followers": 110,
   "following": 22,
   "created_at": "2010-10-23T13:59:12Z",
-  "updated_at": "2026-08-15T09:42:04Z",
+  "updated_at": "2026-08-26T06:54:56Z",
   "_metadata": {
-    "extracted_at": "2026-08-26T05:23:27.869807",
+    "extracted_at": "2026-08-27T15:59:19.498020",
     "file_path": "data/bronze/member_xpepper.json"
   }
 }
