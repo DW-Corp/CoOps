@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-08T09:14:22.194911",
+      "extracted_at": "2026-09-09T09:17:54.939701",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -249,7 +249,7 @@
     "followers": 2,
     "following": 2,
     "created_at": "2012-12-07T13:13:24Z",
-    "updated_at": "2026-06-20T15:42:54Z"
+    "updated_at": "2026-09-08T22:07:20Z"
   },
   {
     "login": "etagwerker",
@@ -314,12 +314,12 @@
     "hireable": null,
     "bio": "I break problems down, build software up, and let AI agents do the heavy lifting 😄",
     "twitter_username": "pierodibello",
-    "public_repos": 305,
+    "public_repos": 306,
     "public_gists": 235,
-    "followers": 110,
+    "followers": 109,
     "following": 22,
     "created_at": "2010-10-23T13:59:12Z",
-    "updated_at": "2026-08-26T06:54:56Z"
+    "updated_at": "2026-09-09T06:50:44Z"
   },
   {
     "login": "rulrok",
@@ -524,9 +524,9 @@
     "hireable": true,
     "bio": "Salesforce Development Professional/Linux Aficionado/Economics Dilettante. \r\n\r\nPrincipal, @octoberswimmer.",
     "twitter_username": null,
-    "public_repos": 309,
+    "public_repos": 310,
     "public_gists": 68,
-    "followers": 135,
+    "followers": 136,
     "following": 135,
     "created_at": "2010-09-03T22:16:37Z",
     "updated_at": "2026-08-26T20:01:19Z"
