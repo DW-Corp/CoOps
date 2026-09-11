@@ -28,12 +28,12 @@
   "twitter_username": null,
   "public_repos": 18,
   "public_gists": 0,
-  "followers": 13,
+  "followers": 14,
   "following": 0,
   "created_at": "2017-03-19T03:33:44Z",
   "updated_at": "2021-05-25T02:08:44Z",
   "_metadata": {
-    "extracted_at": "2026-09-10T09:16:34.166355",
+    "extracted_at": "2026-09-11T09:15:36.125242",
     "file_path": "data/bronze/member_morrme.json"
   }
 }
