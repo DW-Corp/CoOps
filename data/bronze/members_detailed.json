@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-14T10:11:59.440469",
+      "extracted_at": "2026-09-15T09:41:30.553228",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -109,7 +109,7 @@
     "followers": 48,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
-    "updated_at": "2026-09-13T01:43:59Z"
+    "updated_at": "2026-09-15T04:57:17Z"
   },
   {
     "login": "polyanacunha",
@@ -176,7 +176,7 @@
     "twitter_username": null,
     "public_repos": 160,
     "public_gists": 39,
-    "followers": 243,
+    "followers": 242,
     "following": 29,
     "created_at": "2015-04-06T08:45:43Z",
     "updated_at": "2026-08-28T08:29:13Z"
@@ -316,7 +316,7 @@
     "twitter_username": "pierodibello",
     "public_repos": 311,
     "public_gists": 235,
-    "followers": 109,
+    "followers": 108,
     "following": 22,
     "created_at": "2010-10-23T13:59:12Z",
     "updated_at": "2026-09-12T14:24:55Z"
