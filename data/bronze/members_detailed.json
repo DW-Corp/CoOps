@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-09-17T09:43:56.026747",
+      "extracted_at": "2026-09-18T09:17:21.632157",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -39,7 +39,7 @@
     "followers": 189,
     "following": 142,
     "created_at": "2009-11-16T10:44:47Z",
-    "updated_at": "2026-08-26T15:43:13Z"
+    "updated_at": "2026-09-18T05:14:14Z"
   },
   {
     "login": "dalpo",
@@ -314,7 +314,7 @@
     "hireable": null,
     "bio": "I break problems down, build software up, and let AI agents do the heavy lifting 😄",
     "twitter_username": "pierodibello",
-    "public_repos": 311,
+    "public_repos": 310,
     "public_gists": 235,
     "followers": 108,
     "following": 22,
@@ -564,7 +564,7 @@
     "followers": 8,
     "following": 3,
     "created_at": "2011-04-24T19:28:47Z",
-    "updated_at": "2026-08-29T13:01:46Z"
+    "updated_at": "2026-09-17T23:53:51Z"
   },
   {
     "login": "dougjohnston",
