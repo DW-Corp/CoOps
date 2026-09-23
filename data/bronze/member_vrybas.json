@@ -31,9 +31,9 @@
   "followers": 65,
   "following": 18,
   "created_at": "2008-10-23T06:42:07Z",
-  "updated_at": "2026-09-21T11:17:28Z",
+  "updated_at": "2026-09-22T10:01:20Z",
   "_metadata": {
-    "extracted_at": "2026-09-22T09:33:06.943377",
+    "extracted_at": "2026-09-23T09:38:14.781062",
     "file_path": "data/bronze/member_vrybas.json"
   }
 }
