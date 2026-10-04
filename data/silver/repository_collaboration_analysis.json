@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-03T10:08:03.535507",
+      "extracted_at": "2026-10-04T10:49:19.287294",
       "file_path": "data/silver/repository_collaboration_analysis.json",
       "record_count": 5
     }
@@ -11,18 +11,18 @@
     "contributor_count": 13,
     "contributors": [
       "morrme",
-      "madeindjs",
-      "Drahkir",
-      "jwsloan",
-      "rulrok",
-      "epatarroyo",
-      "etagwerker",
-      "potomak",
-      "pirosm1",
-      "hoffmanc",
       "dependabot[bot]",
+      "jwsloan",
+      "epatarroyo",
       "danrleypereira",
-      "matjack1"
+      "pirosm1",
+      "matjack1",
+      "Drahkir",
+      "madeindjs",
+      "hoffmanc",
+      "rulrok",
+      "etagwerker",
+      "potomak"
     ],
     "potential_collaborations": 78,
     "actual_collaborations": 78,
