@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-05T11:55:53.345291",
+      "extracted_at": "2026-10-06T11:35:52.875522",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -314,7 +314,7 @@
     "hireable": null,
     "bio": "I break problems down, build software up, and let AI agents do the heavy lifting 😄",
     "twitter_username": "pierodibello",
-    "public_repos": 311,
+    "public_repos": 312,
     "public_gists": 235,
     "followers": 107,
     "following": 22,
