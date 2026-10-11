@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-10T10:52:45.944448",
+      "extracted_at": "2026-10-11T11:05:33.298220",
       "file_path": "data/silver/repository_collaboration_analysis.json",
       "record_count": 5
     }
@@ -10,19 +10,19 @@
     "repo": "tomatoes",
     "contributor_count": 13,
     "contributors": [
-      "pirosm1",
-      "danrleypereira",
-      "etagwerker",
-      "epatarroyo",
-      "matjack1",
-      "potomak",
-      "madeindjs",
-      "morrme",
-      "dependabot[bot]",
       "hoffmanc",
+      "dependabot[bot]",
+      "pirosm1",
+      "etagwerker",
       "Drahkir",
       "rulrok",
-      "jwsloan"
+      "epatarroyo",
+      "danrleypereira",
+      "matjack1",
+      "jwsloan",
+      "potomak",
+      "morrme",
+      "madeindjs"
     ],
     "potential_collaborations": 78,
     "actual_collaborations": 78,
