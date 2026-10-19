@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-18T09:13:47.092425",
+      "extracted_at": "2026-10-19T10:23:27.752213",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -771,7 +771,7 @@
     "twitter_username": "yoX64",
     "public_repos": 3,
     "public_gists": 2,
-    "followers": 16,
+    "followers": 17,
     "following": 19,
     "created_at": "2013-02-10T15:08:57Z",
     "updated_at": "2026-09-22T12:46:40Z"
