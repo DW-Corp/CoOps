@@ -31,9 +31,9 @@
   "followers": 277,
   "following": 13,
   "created_at": "2008-07-20T09:41:15Z",
-  "updated_at": "2026-10-14T01:42:19Z",
+  "updated_at": "2026-10-21T20:31:54Z",
   "_metadata": {
-    "extracted_at": "2026-10-21T09:44:31.264786",
+    "extracted_at": "2026-10-22T09:43:57.682938",
     "file_path": "data/bronze/member_etagwerker.json"
   }
 }
