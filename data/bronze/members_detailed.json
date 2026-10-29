@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-28T10:53:44.883463",
+      "extracted_at": "2026-10-29T11:10:53.918072",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -71,7 +71,7 @@
     "twitter_username": null,
     "public_repos": 133,
     "public_gists": 24,
-    "followers": 116,
+    "followers": 117,
     "following": 559,
     "created_at": "2009-02-21T15:21:29Z",
     "updated_at": "2026-05-06T09:34:05Z"
@@ -664,7 +664,7 @@
     "hireable": null,
     "bio": "Founder of @turnintocoders & developer @datocms.\r\n\r\nBefore that, founder of @welaika & developer @vitsoe.",
     "twitter_username": null,
-    "public_repos": 69,
+    "public_repos": 70,
     "public_gists": 10,
     "followers": 121,
     "following": 85,
@@ -739,7 +739,7 @@
     "followers": 317,
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
-    "updated_at": "2026-08-28T12:20:11Z"
+    "updated_at": "2026-10-28T16:25:54Z"
   },
   {
     "login": "yoX64",
