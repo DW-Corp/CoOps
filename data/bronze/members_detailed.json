@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-10-29T11:10:53.918072",
+      "extracted_at": "2026-10-30T11:05:30.102075",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -71,8 +71,8 @@
     "twitter_username": null,
     "public_repos": 133,
     "public_gists": 24,
-    "followers": 117,
-    "following": 559,
+    "followers": 116,
+    "following": 560,
     "created_at": "2009-02-21T15:21:29Z",
     "updated_at": "2026-05-06T09:34:05Z"
   },
@@ -106,7 +106,7 @@
     "twitter_username": null,
     "public_repos": 57,
     "public_gists": 0,
-    "followers": 51,
+    "followers": 50,
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
     "updated_at": "2026-10-23T15:14:13Z"
@@ -144,7 +144,7 @@
     "followers": 7,
     "following": 2,
     "created_at": "2022-02-01T23:41:40Z",
-    "updated_at": "2026-09-10T21:47:18Z"
+    "updated_at": "2026-10-29T12:53:16Z"
   },
   {
     "login": "madeindjs",
@@ -176,7 +176,7 @@
     "twitter_username": null,
     "public_repos": 160,
     "public_gists": 39,
-    "followers": 245,
+    "followers": 244,
     "following": 29,
     "created_at": "2015-04-06T08:45:43Z",
     "updated_at": "2026-10-14T10:11:11Z"
@@ -526,7 +526,7 @@
     "twitter_username": null,
     "public_repos": 315,
     "public_gists": 68,
-    "followers": 139,
+    "followers": 138,
     "following": 135,
     "created_at": "2010-09-03T22:16:37Z",
     "updated_at": "2026-10-20T13:17:47Z"
@@ -666,7 +666,7 @@
     "twitter_username": null,
     "public_repos": 70,
     "public_gists": 10,
-    "followers": 121,
+    "followers": 120,
     "following": 85,
     "created_at": "2009-03-20T21:32:21Z",
     "updated_at": "2026-10-18T05:59:29Z"
