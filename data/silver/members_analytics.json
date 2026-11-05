@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-04T12:40:17.584511",
+      "extracted_at": "2026-11-05T12:51:28.153048",
       "file_path": "data/silver/members_analytics.json",
       "record_count": 24
     }
@@ -19,9 +19,9 @@
     "following": 142,
     "created_at": "2009-11-16T10:44:47Z",
     "updated_at": "2026-09-18T05:14:14Z",
-    "maturity_score": 125.17127350446717,
+    "maturity_score": 125.17135416914428,
     "status": "established",
-    "account_age_days": 6197
+    "account_age_days": 6198
   },
   {
     "login": "dalpo",
@@ -36,9 +36,9 @@
     "following": 560,
     "created_at": "2009-02-21T15:21:29Z",
     "updated_at": "2026-05-06T09:34:05Z",
-    "maturity_score": 113.97924111272071,
+    "maturity_score": 113.97931844626042,
     "status": "established",
-    "account_age_days": 6464
+    "account_age_days": 6465
   },
   {
     "login": "danrleypereira",
@@ -53,9 +53,9 @@
     "following": 34,
     "created_at": "2015-04-20T00:48:52Z",
     "updated_at": "2026-10-23T15:14:13Z",
-    "maturity_score": 95.04256461307695,
+    "maturity_score": 95.04268316672304,
     "status": "established",
-    "account_age_days": 4216
+    "account_age_days": 4217
   },
   {
     "login": "polyanacunha",
@@ -70,9 +70,9 @@
     "following": 2,
     "created_at": "2022-02-01T23:41:40Z",
     "updated_at": "2026-10-29T12:53:16Z",
-    "maturity_score": 55.62074983017271,
+    "maturity_score": 55.62103759996482,
     "status": "established",
-    "account_age_days": 1736
+    "account_age_days": 1737
   },
   {
     "login": "madeindjs",
@@ -83,13 +83,13 @@
     "email": "alexandre@rsseau.fr",
     "bio": "Passionate developer. I love clean code, clean logic and my girlfriend.",
     "public_repos": 160,
-    "followers": 244,
+    "followers": 245,
     "following": 29,
     "created_at": "2015-04-06T08:45:43Z",
     "updated_at": "2026-10-14T10:11:11Z",
-    "maturity_score": 129.44447413120798,
+    "maturity_score": 129.5260588003697,
     "status": "established",
-    "account_age_days": 4230
+    "account_age_days": 4231
   },
   {
     "login": "hoffmanc",
@@ -104,9 +104,9 @@
     "following": 24,
     "created_at": "2010-01-28T14:52:51Z",
     "updated_at": "2026-02-07T12:41:04Z",
-    "maturity_score": 69.09098297105413,
+    "maturity_score": 69.09106461037182,
     "status": "established",
-    "account_age_days": 6123
+    "account_age_days": 6124
   },
   {
     "login": "epatarroyo",
@@ -121,9 +121,9 @@
     "following": 2,
     "created_at": "2012-12-07T13:13:24Z",
     "updated_at": "2026-11-03T17:51:31Z",
-    "maturity_score": 32.47710366868797,
+    "maturity_score": 32.47720208419857,
     "status": "new",
-    "account_age_days": 5079
+    "account_age_days": 5080
   },
   {
     "login": "etagwerker",
@@ -138,9 +138,9 @@
     "following": 13,
     "created_at": "2008-07-20T09:41:15Z",
     "updated_at": "2026-10-21T20:31:54Z",
-    "maturity_score": 130.78812339989403,
+    "maturity_score": 130.78819822219123,
     "status": "established",
-    "account_age_days": 6681
+    "account_age_days": 6682
   },
   {
     "login": "xpepper",
@@ -155,9 +155,9 @@
     "following": 22,
     "created_at": "2010-10-23T13:59:12Z",
     "updated_at": "2026-10-27T20:25:49Z",
-    "maturity_score": 115.22841452802973,
+    "maturity_score": 115.22849990325405,
     "status": "established",
-    "account_age_days": 5855
+    "account_age_days": 5856
   },
   {
     "login": "rulrok",
@@ -172,9 +172,9 @@
     "following": 30,
     "created_at": "2012-12-21T12:17:11Z",
     "updated_at": "2026-10-12T14:24:17Z",
-    "maturity_score": 86.27838678452848,
+    "maturity_score": 86.27848545251103,
     "status": "established",
-    "account_age_days": 5066
+    "account_age_days": 5067
   },
   {
     "login": "Drahkir",
@@ -189,9 +189,9 @@
     "following": 3,
     "created_at": "2010-04-16T17:06:42Z",
     "updated_at": "2022-04-11T02:37:39Z",
-    "maturity_score": 57.85999789691462,
+    "maturity_score": 57.860080589381525,
     "status": "established",
-    "account_age_days": 6045
+    "account_age_days": 6046
   },
   {
     "login": "larkinscott",
@@ -206,9 +206,9 @@
     "following": 18,
     "created_at": "2016-10-12T17:09:10Z",
     "updated_at": "2025-11-14T21:34:21Z",
-    "maturity_score": 75.58290280162815,
+    "maturity_score": 75.58303883754247,
     "status": "established",
-    "account_age_days": 3674
+    "account_age_days": 3675
   },
   {
     "login": "vrybas",
@@ -223,9 +223,9 @@
     "following": 18,
     "created_at": "2008-10-23T06:42:07Z",
     "updated_at": "2026-10-14T09:29:35Z",
-    "maturity_score": 99.55963293656495,
+    "maturity_score": 99.55970883789337,
     "status": "established",
-    "account_age_days": 6586
+    "account_age_days": 6587
   },
   {
     "login": "gunn",
@@ -240,9 +240,9 @@
     "following": 12,
     "created_at": "2008-12-24T14:56:57Z",
     "updated_at": "2026-07-31T12:26:02Z",
-    "maturity_score": 99.10725064175693,
+    "maturity_score": 99.10732727598193,
     "status": "established",
-    "account_age_days": 6523
+    "account_age_days": 6524
   },
   {
     "login": "cwarden",
@@ -252,14 +252,14 @@
     "location": "Chicago, IL",
     "email": "cwarden@xerus.org",
     "bio": "Salesforce Development Professional/Linux Aficionado/Economics Dilettante. \r\n\r\nPrincipal, @octoberswimmer.",
-    "public_repos": 315,
+    "public_repos": 316,
     "followers": 138,
     "following": 135,
     "created_at": "2010-09-03T22:16:37Z",
     "updated_at": "2026-10-20T13:17:47Z",
-    "maturity_score": 120.2985673345265,
+    "maturity_score": 120.30813066789928,
     "status": "established",
-    "account_age_days": 5905
+    "account_age_days": 5906
   },
   {
     "login": "Darksider3",
@@ -274,9 +274,9 @@
     "following": 3,
     "created_at": "2011-04-24T19:28:47Z",
     "updated_at": "2026-09-17T23:53:51Z",
-    "maturity_score": 58.262841755913286,
+    "maturity_score": 58.2629298849344,
     "status": "established",
-    "account_age_days": 5672
+    "account_age_days": 5673
   },
   {
     "login": "dougjohnston",
@@ -291,9 +291,9 @@
     "following": 8,
     "created_at": "2008-06-02T05:34:00Z",
     "updated_at": "2026-07-28T16:45:14Z",
-    "maturity_score": 84.63464174649307,
+    "maturity_score": 84.63471603517905,
     "status": "established",
-    "account_age_days": 6729
+    "account_age_days": 6730
   },
   {
     "login": "jwsloan",
@@ -308,9 +308,9 @@
     "following": 2,
     "created_at": "2013-06-25T14:19:56Z",
     "updated_at": "2026-11-03T16:26:24Z",
-    "maturity_score": 58.01661011465957,
+    "maturity_score": 58.01671256317955,
     "status": "established",
-    "account_age_days": 4879
+    "account_age_days": 4880
   },
   {
     "login": "matjack1",
@@ -325,9 +325,9 @@
     "following": 85,
     "created_at": "2009-03-20T21:32:21Z",
     "updated_at": "2026-10-18T05:59:29Z",
-    "maturity_score": 112.92286109269423,
+    "maturity_score": 112.92293875053394,
     "status": "established",
-    "account_age_days": 6437
+    "account_age_days": 6438
   },
   {
     "login": "pirosm1",
@@ -342,9 +342,9 @@
     "following": 1,
     "created_at": "2015-09-04T18:03:23Z",
     "updated_at": "2026-09-13T09:02:53Z",
-    "maturity_score": 32.72072307502963,
+    "maturity_score": 32.72084563906996,
     "status": "new",
-    "account_age_days": 4078
+    "account_age_days": 4079
   },
   {
     "login": "piamancini",
@@ -359,9 +359,9 @@
     "following": 0,
     "created_at": "2013-02-22T15:56:23Z",
     "updated_at": "2026-10-28T16:25:54Z",
-    "maturity_score": 134.32485142917557,
+    "maturity_score": 134.32495135922485,
     "status": "established",
-    "account_age_days": 5002
+    "account_age_days": 5003
   },
   {
     "login": "yoX64",
@@ -376,9 +376,9 @@
     "following": 19,
     "created_at": "2013-02-10T15:08:57Z",
     "updated_at": "2026-11-03T15:56:57Z",
-    "maturity_score": 66.22641259148098,
+    "maturity_score": 66.22651228243934,
     "status": "established",
-    "account_age_days": 5014
+    "account_age_days": 5015
   },
   {
     "login": "dependabot[bot]",
@@ -393,9 +393,9 @@
     "following": 0,
     "created_at": "2019-04-16T22:34:25Z",
     "updated_at": "2019-05-23T08:22:16Z",
-    "maturity_score": 3.961311787108643,
+    "maturity_score": 3.9614929793555977,
     "status": "new",
-    "account_age_days": 2758
+    "account_age_days": 2759
   },
   {
     "login": "morrme",
@@ -410,8 +410,8 @@
     "following": 0,
     "created_at": "2017-03-19T03:33:44Z",
     "updated_at": "2021-05-25T02:08:44Z",
-    "maturity_score": 67.07714492219228,
+    "maturity_score": 67.07728702820432,
     "status": "established",
-    "account_age_days": 3517
+    "account_age_days": 3518
   }
 ]
