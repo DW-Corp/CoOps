@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-05T12:51:02.196534",
+      "extracted_at": "2026-11-06T12:35:04.256691",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -106,8 +106,8 @@
     "twitter_username": null,
     "public_repos": 58,
     "public_gists": 0,
-    "followers": 50,
-    "following": 34,
+    "followers": 53,
+    "following": 42,
     "created_at": "2015-04-20T00:48:52Z",
     "updated_at": "2026-10-23T15:14:13Z"
   },
@@ -141,7 +141,7 @@
     "twitter_username": null,
     "public_repos": 30,
     "public_gists": 0,
-    "followers": 7,
+    "followers": 9,
     "following": 2,
     "created_at": "2022-02-01T23:41:40Z",
     "updated_at": "2026-10-29T12:53:16Z"
@@ -179,7 +179,7 @@
     "followers": 245,
     "following": 29,
     "created_at": "2015-04-06T08:45:43Z",
-    "updated_at": "2026-10-14T10:11:11Z"
+    "updated_at": "2026-11-06T12:22:21Z"
   },
   {
     "login": "hoffmanc",
