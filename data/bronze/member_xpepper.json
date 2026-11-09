@@ -26,14 +26,14 @@
   "hireable": null,
   "bio": "I break problems down, build software up, and let AI agents do the heavy lifting 😄",
   "twitter_username": "pierodibello",
-  "public_repos": 314,
+  "public_repos": 315,
   "public_gists": 235,
   "followers": 107,
   "following": 22,
   "created_at": "2010-10-23T13:59:12Z",
   "updated_at": "2026-11-08T10:28:31Z",
   "_metadata": {
-    "extracted_at": "2026-11-08T11:36:26.451146",
+    "extracted_at": "2026-11-09T13:28:43.823956",
     "file_path": "data/bronze/member_xpepper.json"
   }
 }

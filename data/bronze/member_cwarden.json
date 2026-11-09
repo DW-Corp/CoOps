@@ -28,12 +28,12 @@
   "twitter_username": null,
   "public_repos": 317,
   "public_gists": 68,
-  "followers": 139,
+  "followers": 138,
   "following": 135,
   "created_at": "2010-09-03T22:16:37Z",
   "updated_at": "2026-11-08T01:27:52Z",
   "_metadata": {
-    "extracted_at": "2026-11-08T11:36:26.451457",
+    "extracted_at": "2026-11-09T13:28:43.824703",
     "file_path": "data/bronze/member_cwarden.json"
   }
 }
