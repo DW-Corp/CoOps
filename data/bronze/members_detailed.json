@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-11T12:17:01.045457",
+      "extracted_at": "2026-11-12T13:27:15.948074",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -524,7 +524,7 @@
     "hireable": true,
     "bio": "Salesforce Development Professional/Linux Aficionado/Economics Dilettante. \r\n\r\nPrincipal, @octoberswimmer.",
     "twitter_username": null,
-    "public_repos": 317,
+    "public_repos": 321,
     "public_gists": 68,
     "followers": 138,
     "following": 135,
