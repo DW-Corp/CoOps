@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-16T13:14:20.932499",
+      "extracted_at": "2026-11-17T13:58:29.687194",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -39,7 +39,7 @@
     "followers": 189,
     "following": 142,
     "created_at": "2009-11-16T10:44:47Z",
-    "updated_at": "2026-11-10T14:17:14Z"
+    "updated_at": "2026-11-17T13:58:19Z"
   },
   {
     "login": "dalpo",
@@ -459,7 +459,7 @@
     "followers": 64,
     "following": 18,
     "created_at": "2008-10-23T06:42:07Z",
-    "updated_at": "2026-10-14T09:29:35Z"
+    "updated_at": "2026-11-17T09:36:37Z"
   },
   {
     "login": "gunn",
@@ -524,7 +524,7 @@
     "hireable": true,
     "bio": "Salesforce Development Professional/Linux Aficionado/Economics Dilettante. \r\n\r\nPrincipal, @octoberswimmer.",
     "twitter_username": null,
-    "public_repos": 325,
+    "public_repos": 326,
     "public_gists": 68,
     "followers": 137,
     "following": 135,
