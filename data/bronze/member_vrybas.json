@@ -28,12 +28,12 @@
   "twitter_username": null,
   "public_repos": 48,
   "public_gists": 18,
-  "followers": 64,
+  "followers": 65,
   "following": 18,
   "created_at": "2008-10-23T06:42:07Z",
   "updated_at": "2026-11-17T09:36:37Z",
   "_metadata": {
-    "extracted_at": "2026-11-23T15:30:50.480596",
+    "extracted_at": "2026-11-24T15:24:55.212886",
     "file_path": "data/bronze/member_vrybas.json"
   }
 }
