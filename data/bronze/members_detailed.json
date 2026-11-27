@@ -1,7 +1,7 @@
 [
   {
     "_metadata": {
-      "extracted_at": "2026-11-26T14:35:25.250831",
+      "extracted_at": "2026-11-27T14:30:08.849000",
       "file_path": "data/bronze/members_detailed.json",
       "record_count": 24
     }
@@ -214,7 +214,7 @@
     "followers": 12,
     "following": 24,
     "created_at": "2010-01-28T14:52:51Z",
-    "updated_at": "2026-02-07T12:41:04Z"
+    "updated_at": "2026-11-26T15:50:40Z"
   },
   {
     "login": "epatarroyo",
@@ -524,7 +524,7 @@
     "hireable": true,
     "bio": "Salesforce Development Professional/Linux Aficionado/Economics Dilettante. \r\n\r\nPrincipal, @octoberswimmer.",
     "twitter_username": null,
-    "public_repos": 327,
+    "public_repos": 328,
     "public_gists": 68,
     "followers": 137,
     "following": 135,
@@ -774,7 +774,7 @@
     "followers": 17,
     "following": 19,
     "created_at": "2013-02-10T15:08:57Z",
-    "updated_at": "2026-11-03T15:56:57Z"
+    "updated_at": "2026-11-26T22:22:49Z"
   },
   {
     "login": "dependabot[bot]",
